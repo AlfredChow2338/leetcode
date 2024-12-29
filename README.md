@@ -13,10 +13,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 47)
+## Completed Questions (Total: 48)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 16  | 
+| Easy  | 11  | 
 | Medium  | 27  |
 | Hard  | 4  |
 
@@ -43,6 +43,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 13 | Roman to Integer  | Easy  | https://leetcode.com/problems/roman-to-integer/ |
 | 219 |  Contains Duplicate II | Easy  | https://leetcode.com/problems/contains-duplicate-ii/ |
 | 26 |  Remove Duplicates from Sorted Array | Easy  | https://leetcode.com/problems/remove-duplicates-from-sorted-array/ |
+
+### Linked List (Completed: 1)
+| No.  | Question  | Level  | Url  |
+|:------------:|:---------------|:---------------:|:------------|
+| 206 | Reverse Linked List  | Easy  | https://leetcode.com/problems/reverse-linked-list/ |
 
 ### Prefix Sum (Completed: 4)
 | No.  | Question  | Level  | Url  |
@@ -102,5 +107,3 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | No. | Week (Date)  | Question  | Level  | Url  |
 |:-----:|:--------------|:---------------|:------:|:------------|
 | 3254 | 137 (17th August 2024) | Find the Power of K-Size Subarrays I  | Medium  | https://leetcode.com/contest/biweekly-contest-137/problems/find-the-power-of-k-size-subarrays-i/ |
-
-This is some test
