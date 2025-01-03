@@ -13,11 +13,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 50)
+## Completed Questions (Total: 51)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 19  | 
-| Medium  | 27  |
+| Medium  | 28  |
 | Hard  | 4  |
 
 ### String (Completed: 2)
@@ -44,12 +44,13 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 219 |  Contains Duplicate II | Easy  | https://leetcode.com/problems/contains-duplicate-ii/ |
 | 26 |  Remove Duplicates from Sorted Array | Easy  | https://leetcode.com/problems/remove-duplicates-from-sorted-array/ |
 
-### Linked List (Completed: 3)
+### Linked List (Completed: 4)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 206 | Reverse Linked List  | Easy  | https://leetcode.com/problems/reverse-linked-list/ |
 | 21 | Merge Two Sorted Lists  | Easy  | https://leetcode.com/problems/merge-two-sorted-lists/ |
 | 141 | Linked List Cycle  | Easy  | https://leetcode.com/problems/linked-list-cycle/ |
+| 143 | Reorder List  | Medium  | https://leetcode.com/problems/reorder-list/ |
 
 ### Prefix Sum (Completed: 4)
 | No.  | Question  | Level  | Url  |
