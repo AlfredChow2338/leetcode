@@ -13,11 +13,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 54)
+## Completed Questions (Total: 55)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 19  | 
-| Medium  | 31  |
+| Medium  | 32  |
 | Hard  | 4  |
 
 ### String (Completed: 2)
@@ -44,7 +44,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 219 |  Contains Duplicate II | Easy  | https://leetcode.com/problems/contains-duplicate-ii/ |
 | 26 |  Remove Duplicates from Sorted Array | Easy  | https://leetcode.com/problems/remove-duplicates-from-sorted-array/ |
 
-### Linked List (Completed: 7)
+### Linked List (Completed: 8)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 206 | Reverse Linked List  | Easy  | https://leetcode.com/problems/reverse-linked-list/ |
@@ -54,6 +54,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 19 | Remove Nth Node From End of List  | Medium  | https://leetcode.com/problems/remove-nth-node-from-end-of-list/ |
 | 138 | Copy List with Random Pointer  | Medium  | https://leetcode.com/problems/copy-list-with-random-pointer/ |
 | 2 | Add Two Numbers  | Medium  | https://leetcode.com/problems/add-two-numbers/ |
+| 287 | Find the Duplicate Number  | Medium  | https://leetcode.com/problems/find-the-duplicate-number/ |
 
 ### Prefix Sum (Completed: 4)
 | No.  | Question  | Level  | Url  |

@@ -5,7 +5,6 @@ class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
         m = { ')': '(', '}': '{', ']': '[' } 
-        res = 0
         
         for c in s:
             if c in m:
