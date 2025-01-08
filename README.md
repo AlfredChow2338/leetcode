@@ -13,11 +13,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 56)
+## Completed Questions (Total: 57)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 20  | 
-| Medium  | 32  |
+| Medium  | 33  |
 | Hard  | 4  |
 
 ### String (Completed: 3)
@@ -45,7 +45,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 219 |  Contains Duplicate II | Easy  | https://leetcode.com/problems/contains-duplicate-ii/ |
 | 26 |  Remove Duplicates from Sorted Array | Easy  | https://leetcode.com/problems/remove-duplicates-from-sorted-array/ |
 
-### Linked List (Completed: 8)
+### Linked List (Completed: 9)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 206 | Reverse Linked List  | Easy  | https://leetcode.com/problems/reverse-linked-list/ |
@@ -56,6 +56,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 138 | Copy List with Random Pointer  | Medium  | https://leetcode.com/problems/copy-list-with-random-pointer/ |
 | 2 | Add Two Numbers  | Medium  | https://leetcode.com/problems/add-two-numbers/ |
 | 287 | Find the Duplicate Number  | Medium  | https://leetcode.com/problems/find-the-duplicate-number/ |
+| 146 | LRU Cache  | Medium  | https://leetcode.com/problems/lru-cache/ |
 
 ### Prefix Sum (Completed: 4)
 | No.  | Question  | Level  | Url  |
