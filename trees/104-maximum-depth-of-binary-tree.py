@@ -35,3 +35,16 @@ class Solution:
                     q.append(node.right)
             lv += 1
         return lv
+
+# Stack-based DFS
+class Solution:
+    def maxDepth(self, root: Optional[TreeNode]) -> int:
+        st = [[root, 1]]
+        res = 0
+        while st:
+            node, dep = st.pop()
+            if node:
+                res = max(res, dep)
+                st.append([node.left, dep + 1])
+                st.append([node.right, dep + 1])
+        return res
