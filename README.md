@@ -13,10 +13,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 58)
+## Completed Questions (Total: 59)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 21  | 
+| Easy  | 22  | 
 | Medium  | 33  |
 | Hard  | 4  |
 
@@ -97,10 +97,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 66 | Plus One  | Easy  | https://leetcode.com/problems/plus-one/ |
 | 1408 | String Matching in an Array  | Easy  | https://leetcode.com/problems/string-matching-in-an-array/ |
 
-### Trees (Completed: 1)
+### Trees (Completed: 2)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 226 |  Invert Binary Tree | Easy  | https://leetcode.com/problems/invert-binary-tree/ |
+| 104 |  Maximum Depth of Binary Tree | Easy  | https://leetcode.com/problems/maximum-depth-of-binary-tree/ |
 
 ### Two Pointers (Completed: 5)
 | No.  | Question  | Level  | Url  |
