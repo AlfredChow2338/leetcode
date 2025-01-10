@@ -13,14 +13,14 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 62)
+## Completed Questions (Total: 63)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 24  | 
-| Medium  | 34  |
+| Medium  | 35  |
 | Hard  | 4  |
 
-### Array and Hashing (Completed: 15)
+### Array and Hashing (Completed: 14)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 217 | Contains Duplicate  | Easy  | https://leetcode.com/problems/contains-duplicate/ |
@@ -37,7 +37,6 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 13 | Roman to Integer  | Easy  | https://leetcode.com/problems/roman-to-integer/ |
 | 219 |  Contains Duplicate II | Easy  | https://leetcode.com/problems/contains-duplicate-ii/ |
 | 26 |  Remove Duplicates from Sorted Array | Easy  | https://leetcode.com/problems/remove-duplicates-from-sorted-array/ |
-| 53 |  Maximum Subarray | Medium  | https://leetcode.com/problems/maximum-subarray/ |
 
 ### Binary Search (Completed: 6)
 | No.  | Question  | Level  | Url  |
@@ -48,6 +47,12 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 153 |  Find Minimum in Rotated Sorted Array | Medium  | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ |
 | 981* |  Time Based Key-Value Store | Medium  | https://leetcode.com/problems/time-based-key-value-store/ |
 | 4* | Median of Two Sorted Arrays  | Hard  | https://leetcode.com/problems/median-of-two-sorted-arrays/ |
+
+### Kadane Algorithm (Completed: 2)
+| No.  | Question  | Level  | Url  |
+|:------------:|:---------------|:---------------:|:------------|
+| 53 |  Maximum Subarray | Medium  | https://leetcode.com/problems/maximum-subarray/ |
+| 918 |  Maximum Sum Circular Subarray  | https://leetcode.com/problems/maximum-sum-circular-subarray/ |
 
 ### Linked List (Completed: 9)
 | No.  | Question  | Level  | Url  |
