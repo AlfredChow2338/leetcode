@@ -8,15 +8,15 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [x] Complete 3 questions before 2024-08-18 (1-week)
 - [x] Complete 12 questions before 2024-09-07 (1-month)
 - [x] Complete 39 questions before 2024-11-10 (3-month)
-- [ ] Complete 60 questions before 2024-12-29 (2024 year-end)
+- [x] Complete 60 questions before 2024-12-29 (2024 year-end) Late
 - [ ] Complete 75 questions before 2025-02-10 (half year)
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 59)
+## Completed Questions (Total: 60)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 22  | 
+| Easy  | 23  | 
 | Medium  | 33  |
 | Hard  | 4  |
 
@@ -97,11 +97,12 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 66 | Plus One  | Easy  | https://leetcode.com/problems/plus-one/ |
 | 1408 | String Matching in an Array  | Easy  | https://leetcode.com/problems/string-matching-in-an-array/ |
 
-### Trees (Completed: 2)
+### Trees (Completed: 3)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 226 |  Invert Binary Tree | Easy  | https://leetcode.com/problems/invert-binary-tree/ |
 | 104 |  Maximum Depth of Binary Tree | Easy  | https://leetcode.com/problems/maximum-depth-of-binary-tree/ |
+| 543 |  Diameter of Binary Tree | Easy  | https://leetcode.com/problems/diameter-of-binary-tree/ |
 
 ### Two Pointers (Completed: 5)
 | No.  | Question  | Level  | Url  |
