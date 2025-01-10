@@ -25,4 +25,15 @@ class Solution:
         
         return self.diff <= 1
 
-
+# bottom-up recursion (Optimal)
+class Solution:
+    def isBalanced(self, root: Optional[TreeNode]) -> bool:
+        def dfs(cur):
+            if not cur:
+                return [True, 0]
+            left = dfs(cur.left)
+            right = dfs(cur.right)
+            bal = left[0] and right[0] and abs(left[1] - right[1]) <= 1
+            return [bal, 1 + max(left[1], right[1])]
+        
+        return dfs(root)[0]
