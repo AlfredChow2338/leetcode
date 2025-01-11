@@ -13,11 +13,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 63)
+## Completed Questions (Total: 64)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 24  | 
-| Medium  | 35  |
+| Medium  | 36  |
 | Hard  | 4  |
 
 ### Array and Hashing (Completed: 14)
@@ -48,11 +48,12 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 981* |  Time Based Key-Value Store | Medium  | https://leetcode.com/problems/time-based-key-value-store/ |
 | 4* | Median of Two Sorted Arrays  | Hard  | https://leetcode.com/problems/median-of-two-sorted-arrays/ |
 
-### Kadane Algorithm (Completed: 2)
+### Kadane Algorithm (Completed: 3)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 53 |  Maximum Subarray | Medium  | https://leetcode.com/problems/maximum-subarray/ |
 | 918 |  Maximum Sum Circular Subarray  | https://leetcode.com/problems/maximum-sum-circular-subarray/ |
+| 978 |  Longest Turbulent Subarray  | https://leetcode.com/problems/longest-turbulent-subarray/ |
 
 ### Linked List (Completed: 9)
 | No.  | Question  | Level  | Url  |
