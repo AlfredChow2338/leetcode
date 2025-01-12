@@ -13,10 +13,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 64)
+## Completed Questions (Total: 65)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 24  | 
+| Easy  | 25  | 
 | Medium  | 36  |
 | Hard  | 4  |
 
@@ -121,11 +121,12 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 11 |  Container With Most Water  | Medium  | https://leetcode.com/problems/container-with-most-water/ |
 | 42* |  Trapping Rain Water  | Hard  | https://leetcode.com/problems/trapping-rain-water/ |
 
-### LeetCode Weekly (Completed: 2)
+### LeetCode Weekly (Completed: 3)
 | No. | Week (Date)  | Question  | Level  | Url  |
 |:-----:|:--------------|:---------------|:------:|:------------|
 | 3258 | 411 (18th August 2024) | Count Substrings That Satisfy K-Constraint I  | Easy  | https://leetcode.com/contest/weekly-contest-411/problems/count-substrings-that-satisfy-k-constraint-i/ |
-| 3259* | 411 (18th August 2024) | Maximum Energy Boost From Two Drinks  | Medium  | https://leetcode.com/contest/weekly-contest-411/problems/maximum-energy-boost-from-two-drinks/ |
+| 3259 | 411 (18th August 2024) | Maximum Energy Boost From Two Drinks  | Medium  | https://leetcode.com/contest/weekly-contest-411/problems/maximum-energy-boost-from-two-drinks/ |
+| 100530 | 411 (12th January 2025) | Zigzag Grid Traversal With Skip  | Easy  | https://leetcode.com/contest/weekly-contest-432/problems/zigzag-grid-traversal-with-skip/ |
 
 ### LeetCode Biweekly (Completed: 1)
 | No. | Week (Date)  | Question  | Level  | Url  |
