@@ -13,10 +13,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 65)
+## Completed Questions (Total: 66)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 25  | 
+| Easy  | 26  | 
 | Medium  | 36  |
 | Hard  | 4  |
 
@@ -104,13 +104,14 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 66 | Plus One  | Easy  | https://leetcode.com/problems/plus-one/ |
 | 1408 | String Matching in an Array  | Easy  | https://leetcode.com/problems/string-matching-in-an-array/ |
 
-### Trees (Completed: 4)
+### Trees (Completed: 5)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 226 |  Invert Binary Tree | Easy  | https://leetcode.com/problems/invert-binary-tree/ |
 | 104 |  Maximum Depth of Binary Tree | Easy  | https://leetcode.com/problems/maximum-depth-of-binary-tree/ |
 | 543 |  Diameter of Binary Tree | Easy  | https://leetcode.com/problems/diameter-of-binary-tree/ |
 | 110 |  Balanced Binary Tree | Easy  | https://leetcode.com/problems/balanced-binary-tree/ |
+| 100 |  Same Tree | Easy  | https://leetcode.com/problems/same-tree/ |
 
 ### Two Pointers (Completed: 5)
 | No.  | Question  | Level  | Url  |
