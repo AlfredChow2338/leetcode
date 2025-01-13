@@ -13,10 +13,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 66)
+## Completed Questions (Total: 67)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 26  | 
+| Easy  | 27  | 
 | Medium  | 36  |
 | Hard  | 4  |
 
@@ -52,8 +52,8 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 53 |  Maximum Subarray | Medium  | https://leetcode.com/problems/maximum-subarray/ |
-| 918 |  Maximum Sum Circular Subarray  | https://leetcode.com/problems/maximum-sum-circular-subarray/ |
-| 978 |  Longest Turbulent Subarray  | https://leetcode.com/problems/longest-turbulent-subarray/ |
+| 918 |  Maximum Sum Circular Subarray | Medium  | https://leetcode.com/problems/maximum-sum-circular-subarray/ |
+| 978 |  Longest Turbulent Subarray  | Medium  | https://leetcode.com/problems/longest-turbulent-subarray/ |
 
 ### Linked List (Completed: 9)
 | No.  | Question  | Level  | Url  |
@@ -104,7 +104,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 66 | Plus One  | Easy  | https://leetcode.com/problems/plus-one/ |
 | 1408 | String Matching in an Array  | Easy  | https://leetcode.com/problems/string-matching-in-an-array/ |
 
-### Trees (Completed: 5)
+### Trees (Completed: 6)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 226 |  Invert Binary Tree | Easy  | https://leetcode.com/problems/invert-binary-tree/ |
@@ -112,6 +112,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 543 |  Diameter of Binary Tree | Easy  | https://leetcode.com/problems/diameter-of-binary-tree/ |
 | 110 |  Balanced Binary Tree | Easy  | https://leetcode.com/problems/balanced-binary-tree/ |
 | 100 |  Same Tree | Easy  | https://leetcode.com/problems/same-tree/ |
+| 572 |  Subtree of Another Tree | Easy  | https://leetcode.com/problems/subtree-of-another-tree/ |
 
 ### Two Pointers (Completed: 5)
 | No.  | Question  | Level  | Url  |
