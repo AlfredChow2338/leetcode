@@ -13,11 +13,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 68)
+## Completed Questions (Total: 69)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 27  | 
-| Medium  | 37  |
+| Medium  | 38  |
 | Hard  | 4  |
 
 ### Array and Hashing (Completed: 14)
@@ -104,7 +104,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 66 | Plus One  | Easy  | https://leetcode.com/problems/plus-one/ |
 | 1408 | String Matching in an Array  | Easy  | https://leetcode.com/problems/string-matching-in-an-array/ |
 
-### Trees (Completed: 7)
+### Trees (Completed: 8)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 226 |  Invert Binary Tree | Easy  | https://leetcode.com/problems/invert-binary-tree/ |
@@ -114,6 +114,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 100 |  Same Tree | Easy  | https://leetcode.com/problems/same-tree/ |
 | 572 |  Subtree of Another Tree | Easy  | https://leetcode.com/problems/subtree-of-another-tree/ |
 | 235 |  Lowest Common Ancestor of a Binary Search Tree | Medium  | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ |
+| 102 |  Binary Tree Level Order Traversal | Medium  | https://leetcode.com/problems/binary-tree-level-order-traversal/ |
 
 ### Two Pointers (Completed: 5)
 | No.  | Question  | Level  | Url  |
