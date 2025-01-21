@@ -13,11 +13,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 73)
+## Completed Questions (Total: 74)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 27  | 
-| Medium  | 42  |
+| Medium  | 43  |
 | Hard  | 4  |
 
 ### Array and Hashing (Completed: 14)
@@ -104,7 +104,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 66 | Plus One  | Easy  | https://leetcode.com/problems/plus-one/ |
 | 1408 | String Matching in an Array  | Easy  | https://leetcode.com/problems/string-matching-in-an-array/ |
 
-### Trees (Completed: 12)
+### Trees (Completed: 13)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 226 |  Invert Binary Tree | Easy  | https://leetcode.com/problems/invert-binary-tree/ |
@@ -119,6 +119,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 1448 |  Count Good Nodes in Binary Tree | Medium  | https://leetcode.com/problems/count-good-nodes-in-binary-tree/ |
 | 98 |  Validate Binary Search Tree | Medium  | https://leetcode.com/problems/validate-binary-search-tree/ |
 | 230 |  Kth Smallest Element in a BST | Medium  | https://leetcode.com/problems/kth-smallest-element-in-a-bst/ |
+| 105 |  Construct Binary Tree from Preorder and Inorder Traversal | Medium  | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ |
 
 ### Two Pointers (Completed: 5)
 | No.  | Question  | Level  | Url  |
