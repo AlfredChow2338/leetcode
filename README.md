@@ -9,14 +9,14 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [x] Complete 12 questions before 2024-09-07 (1-month)
 - [x] Complete 39 questions before 2024-11-10 (3-month)
 - [x] Complete 60 questions before 2024-12-29 (2024 year-end) Late
-- [ ] Complete 75 questions before 2025-02-10 (half year)
+- [x] Complete 75 questions before 2025-02-10 (half year)
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 74)
+## Completed Questions (Total: 75)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 27  | 
+| Easy  | 28  | 
 | Medium  | 43  |
 | Hard  | 4  |
 
@@ -47,6 +47,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 153 |  Find Minimum in Rotated Sorted Array | Medium  | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ |
 | 981* |  Time Based Key-Value Store | Medium  | https://leetcode.com/problems/time-based-key-value-store/ |
 | 4* | Median of Two Sorted Arrays  | Hard  | https://leetcode.com/problems/median-of-two-sorted-arrays/ |
+
+### Dynamic Programming (Completed: 1)
+| No.  | Question  | Level  | Url  |
+|:------------:|:---------------|:---------------:|:------------|
+| 509 |  Fibonacci Number | Easy  | https://leetcode.com/problems/fibonacci-number/ |
 
 ### Kadane Algorithm (Completed: 3)
 | No.  | Question  | Level  | Url  |
