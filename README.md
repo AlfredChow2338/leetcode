@@ -13,10 +13,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 80)
+## Completed Questions (Total: 81)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 31  | 
+| Easy  | 32  | 
 | Medium  | 45  |
 | Hard  | 4  |
 
@@ -53,11 +53,12 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 |:------------:|:---------------|:---------------:|:------------|
 | 509 |  Fibonacci Number | Easy  | https://leetcode.com/problems/fibonacci-number/ |
 
-### Heap and Priority Queue (Completed: 2)
+### Heap and Priority Queue (Completed: 3)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 703 |  Kth Largest Element in a Stream | Easy  | https://leetcode.com/problems/kth-largest-element-in-a-stream/ |
 | 1046 |  Last Stone Weight | Easy  | https://leetcode.com/problems/last-stone-weight/ |
+| 2500 |  Delete Greatest Value in Each Row | Easy  | https://leetcode.com/problems/delete-greatest-value-in-each-row/ |
 
 ### Kadane Algorithm (Completed: 3)
 | No.  | Question  | Level  | Url  |
