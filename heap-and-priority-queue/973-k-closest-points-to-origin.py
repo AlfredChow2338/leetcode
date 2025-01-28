@@ -11,7 +11,6 @@ class Solution:
         
         return points[:k]
 
-
 # Min heap
 class Solution:
     def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
