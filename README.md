@@ -13,10 +13,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 86)
+## Completed Questions (Total: 88)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 32  | 
+| Easy  | 34  |
 | Medium  | 50  |
 | Hard  | 4  |
 
@@ -47,6 +47,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 153 |  Find Minimum in Rotated Sorted Array | Medium  | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ |
 | **981** |  Time Based Key-Value Store | Medium  | https://leetcode.com/problems/time-based-key-value-store/ |
 | **4** | Median of Two Sorted Arrays  | Hard  | https://leetcode.com/problems/median-of-two-sorted-arrays/ |
+
+### Data Structure Implementation (Completed: 1)
+| Question  | Level  | Url  |
+|:---------------|:---------------:|:------------|
+|  Design Singly Linked List | Easy  | https://neetcode.io/problems/singlyLinkedList |
 
 ### Design Pattern (Completed: 1)
 | Question  | Level  | Url  |
