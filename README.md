@@ -13,11 +13,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 84)
+## Completed Questions (Total: 85)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 32  | 
-| Medium  | 48  |
+| Medium  | 49  |
 | Hard  | 4  |
 
 ### Array and Hashing (Completed: 14)
@@ -43,17 +43,17 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 |:------------:|:---------------|:---------------:|:------------|
 | 704 |  Binary Search | Easy  | https://leetcode.com/problems/binary-search/ |
 | 74 |  Search a 2D Matrix | Medium  | https://leetcode.com/problems/search-a-2d-matrix/ |
-| 875* |  Koko Eating Bananas | Medium  | https://leetcode.com/problems/koko-eating-bananas/ |
+| <strong>875</strong> |  Koko Eating Bananas | Medium  | https://leetcode.com/problems/koko-eating-bananas/ |
 | 153 |  Find Minimum in Rotated Sorted Array | Medium  | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ |
-| 981* |  Time Based Key-Value Store | Medium  | https://leetcode.com/problems/time-based-key-value-store/ |
-| 4* | Median of Two Sorted Arrays  | Hard  | https://leetcode.com/problems/median-of-two-sorted-arrays/ |
+| <strong>981</strong> |  Time Based Key-Value Store | Medium  | https://leetcode.com/problems/time-based-key-value-store/ |
+| <strong>4</strong> | Median of Two Sorted Arrays  | Hard  | https://leetcode.com/problems/median-of-two-sorted-arrays/ |
 
 ### Dynamic Programming (Completed: 1)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 509 |  Fibonacci Number | Easy  | https://leetcode.com/problems/fibonacci-number/ |
 
-### Heap and Priority Queue (Completed: 6)
+### Heap and Priority Queue (Completed: 7)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 703 |  Kth Largest Element in a Stream | Easy  | https://leetcode.com/problems/kth-largest-element-in-a-stream/ |
@@ -61,7 +61,8 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 2500 |  Delete Greatest Value in Each Row | Easy  | https://leetcode.com/problems/delete-greatest-value-in-each-row/ |
 | 973 |  K Closest Points to Origin | Medium  | https://leetcode.com/problems/k-closest-points-to-origin/ |
 | 215 |  Kth Largest Element in an Array | Medium  | https://leetcode.com/problems/kth-largest-element-in-an-array/ |
-| 621 |  Task Scheduler | Medium  | https://leetcode.com/problems/task-scheduler/ |
+| <strong>621</strong> |  Task Scheduler | Medium  | https://leetcode.com/problems/task-scheduler/ |
+| <strong>355</strong> |  Design Twitter | Medium  | https://leetcode.com/problems/design-twitter/ |
 
 ### Kadane Algorithm (Completed: 3)
 | No.  | Question  | Level  | Url  |
@@ -88,18 +89,18 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 |:------------:|:---------------|:---------------:|:------------|
 | 238 | Product of Array Except Self  | Medium  | https://leetcode.com/problems/product-of-array-except-self/ |
 | 303 | Range Sum Query - Immutable  | Easy  | https://leetcode.com/problems/range-sum-query-immutable/ |
-| 525* | Contiguous Array  | Medium  | https://leetcode.com/problems/contiguous-array/ |
-| 560* | Subarray Sum Equals K  | Medium  | https://leetcode.com/problems/subarray-sum-equals-k/ |
+| <strong>525</strong> | Contiguous Array  | Medium  | https://leetcode.com/problems/contiguous-array/ |
+| <strong>560</strong> | Subarray Sum Equals K  | Medium  | https://leetcode.com/problems/subarray-sum-equals-k/ |
 
 ### Sliding Window (Completed: 6)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
-| 121* |  Best Time to Buy and Sell Stock | Easy  | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ |
-| 1004* |  Max Consecutive Ones III | Medium  | https://leetcode.com/problems/max-consecutive-ones-iii/ |
-| 3* |  Longest Substring Without Repeating Characters | Medium  | https://leetcode.com/problems/longest-substring-without-repeating-characters/ |
-| 424* |  Longest Repeating Character Replacement | Medium  | https://leetcode.com/problems/longest-repeating-character-replacement/ |
-| 567* |  Permutation in String | Medium  | https://leetcode.com/problems/permutation-in-string/ |
-| 76* |  Minimum Window Substring | Hard  | https://leetcode.com/problems/minimum-window-substring/ |
+| <strong>121</strong> |  Best Time to Buy and Sell Stock | Easy  | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ |
+| <strong>1004</strong> |  Max Consecutive Ones III | Medium  | https://leetcode.com/problems/max-consecutive-ones-iii/ |
+| <strong>3</strong> |  Longest Substring Without Repeating Characters | Medium  | https://leetcode.com/problems/longest-substring-without-repeating-characters/ |
+| <strong>424</strong> |  Longest Repeating Character Replacement | Medium  | https://leetcode.com/problems/longest-repeating-character-replacement/ |
+| <strong>567</strong> |  Permutation in String | Medium  | https://leetcode.com/problems/permutation-in-string/ |
+| <strong>76</strong> |  Minimum Window Substring | Hard  | https://leetcode.com/problems/minimum-window-substring/ |
 
 ### Stack (Completed: 7)
 | No.  | Question  | Level  | Url  |
@@ -107,10 +108,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 20 |  Valid Parentheses | Easy  | https://leetcode.com/problems/valid-parentheses/ |
 | 155 |  Min Stack | Medium  | https://leetcode.com/problems/min-stack/ |
 | 150 |  Evaluate Reverse Polish Notation | Medium  | https://leetcode.com/problems/evaluate-reverse-polish-notation/ |
-| 22* |  Generate Parentheses | Medium  | https://leetcode.com/problems/generate-parentheses/ |
-| 739* |  Daily Temperatures | Medium  | https://leetcode.com/problems/daily-temperatures/ |
-| 853* |  Car Fleet | Medium  | https://leetcode.com/problems/car-fleet/ |
-| 84* |  Largest Rectangle in Histogram | Hard  | https://leetcode.com/problems/largest-rectangle-in-histogram/ |
+| <strong>22</strong> |  Generate Parentheses | Medium  | https://leetcode.com/problems/generate-parentheses/ |
+| <strong>739</strong> |  Daily Temperatures | Medium  | https://leetcode.com/problems/daily-temperatures/ |
+| <strong>853</strong> |  Car Fleet | Medium  | https://leetcode.com/problems/car-fleet/ |
+| <strong>84</strong> |  Largest Rectangle in Histogram | Hard  | https://leetcode.com/problems/largest-rectangle-in-histogram/ |
 
 ### String (Completed: 3)
 | No.  | Question  | Level  | Url  |
@@ -145,10 +146,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 125 |  Valid Palindrome  | Easy  | https://leetcode.com/problems/valid-palindrome/ |
-| 167* |  Two Sum II - Input Array Is Sorted  | Medium  | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ |
+| <strong>167</strong> |  Two Sum II - Input Array Is Sorted  | Medium  | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ |
 | 15 |  3Sum  | Medium  | https://leetcode.com/problems/3sum/ |
 | 11 |  Container With Most Water  | Medium  | https://leetcode.com/problems/container-with-most-water/ |
-| 42* |  Trapping Rain Water  | Hard  | https://leetcode.com/problems/trapping-rain-water/ |
+| <strong>42</strong> |  Trapping Rain Water  | Hard  | https://leetcode.com/problems/trapping-rain-water/ |
 
 ### LeetCode Weekly (Completed: 5)
 | No. | Week (Date)  | Question  | Level  | Url  |
