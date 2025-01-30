@@ -48,6 +48,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **981** |  Time Based Key-Value Store | Medium  | https://leetcode.com/problems/time-based-key-value-store/ |
 | **4** | Median of Two Sorted Arrays  | Hard  | https://leetcode.com/problems/median-of-two-sorted-arrays/ |
 
+### Design Pattern (Completed: 1)
+| Question  | Level  | Url  |
+|:---------------|:---------------:|:------------|
+|  Factory Method Pattern | Easy  | https://neetcode.io/problems/factory |
+
 ### Dynamic Programming (Completed: 1)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
