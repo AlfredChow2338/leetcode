@@ -13,11 +13,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 89)
+## Completed Questions (Total: 90)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 34  |
-| Medium  | 51  |
+| Medium  | 52  |
 | Hard  | 4  |
 
 ### Array and Hashing (Completed: 14)
@@ -38,10 +38,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 219 |  Contains Duplicate II | Easy  | https://leetcode.com/problems/contains-duplicate-ii/ |
 | 26 |  Remove Duplicates from Sorted Array | Easy  | https://leetcode.com/problems/remove-duplicates-from-sorted-array/ |
 
-### Backtracking (Completed: 1)
+### Backtracking (Completed: 2)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 78 | Subsets  | Medium  | https://leetcode.com/problems/subsets/ |
+| 39 | Combination Sum  | Medium  | https://leetcode.com/problems/combination-sum/ |
 
 ### Binary Search (Completed: 6)
 | No.  | Question  | Level  | Url  |
