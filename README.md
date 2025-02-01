@@ -13,10 +13,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 90)
+## Completed Questions (Total: 91)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 34  |
+| Easy  | 35  |
 | Medium  | 52  |
 | Hard  | 4  |
 
@@ -177,7 +177,8 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 3432 | 434 (26th January 2025) | Count Partitions with Even Sum Difference  | Easy  | https://leetcode.com/contest/weekly-contest-432/problems/count-partitions-with-even-sum-difference/ |
 | 3433 | 434 (26th January 2025) | Count Mentions Per User  | Medium  | https://leetcode.com/contest/weekly-contest-432/problems/count-mentions-per-user/ |
 
-### LeetCode Biweekly (Completed: 1)
+### LeetCode Biweekly (Completed: 2)
 | No. | Week (Date)  | Question  | Level  | Url  |
 |:-----:|:--------------|:---------------|:------:|:------------|
 | 3254 | 137 (17th August 2024) | Find the Power of K-Size Subarrays I  | Medium  | https://leetcode.com/contest/biweekly-contest-137/problems/find-the-power-of-k-size-subarrays-i/ |
+| Q1 | 149 (1st Feb 2025) | Find Valid Pair of Adjacent Digits in String  | Easy  | https://leetcode.com/contest/biweekly-contest-149/problems/find-valid-pair-of-adjacent-digits-in-string/ |
