@@ -13,10 +13,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 99 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 91)
+## Completed Questions (Total: 92)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 35  |
+| Easy  | 36  |
 | Medium  | 52  |
 | Hard  | 4  |
 
@@ -168,17 +168,18 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 11 |  Container With Most Water  | Medium  | https://leetcode.com/problems/container-with-most-water/ |
 | **42** |  Trapping Rain Water  | Hard  | https://leetcode.com/problems/trapping-rain-water/ |
 
-### LeetCode Weekly (Completed: 5)
+### LeetCode Weekly (Completed: 6)
 | No. | Week (Date)  | Question  | Level  | Url  |
 |:-----:|:--------------|:---------------|:------:|:------------|
-| 3258 | 411 (18th August 2024) | Count Substrings That Satisfy K-Constraint I  | Easy  | https://leetcode.com/contest/weekly-contest-411/problems/count-substrings-that-satisfy-k-constraint-i/ |
-| 3259 | 411 (18th August 2024) | Maximum Energy Boost From Two Drinks  | Medium  | https://leetcode.com/contest/weekly-contest-411/problems/maximum-energy-boost-from-two-drinks/ |
-| 100530 | 432 (12th January 2025) | Zigzag Grid Traversal With Skip  | Easy  | https://leetcode.com/contest/weekly-contest-432/problems/zigzag-grid-traversal-with-skip/ |
-| 3432 | 434 (26th January 2025) | Count Partitions with Even Sum Difference  | Easy  | https://leetcode.com/contest/weekly-contest-432/problems/count-partitions-with-even-sum-difference/ |
-| 3433 | 434 (26th January 2025) | Count Mentions Per User  | Medium  | https://leetcode.com/contest/weekly-contest-432/problems/count-mentions-per-user/ |
+| 3258 | 411 (18th Aug 2024) | Count Substrings That Satisfy K-Constraint I  | Easy  | https://leetcode.com/contest/weekly-contest-411/problems/count-substrings-that-satisfy-k-constraint-i/ |
+| 3259 | 411 (18th Aug 2024) | Maximum Energy Boost From Two Drinks  | Medium  | https://leetcode.com/contest/weekly-contest-411/problems/maximum-energy-boost-from-two-drinks/ |
+| 100530 | 432 (12th Jan 2025) | Zigzag Grid Traversal With Skip  | Easy  | https://leetcode.com/contest/weekly-contest-432/problems/zigzag-grid-traversal-with-skip/ |
+| 3432 | 434 (26th Jan 2025) | Count Partitions with Even Sum Difference  | Easy  | https://leetcode.com/contest/weekly-contest-432/problems/count-partitions-with-even-sum-difference/ |
+| 3433 | 434 (26th Jan 2025) | Count Mentions Per User  | Medium  | https://leetcode.com/contest/weekly-contest-432/problems/count-mentions-per-user/ |
+| Q1 | 435 (2nd Feb 2025) | Maximum Difference Between Even and Odd Frequency I  | Easy  | https://leetcode.com/contest/weekly-contest-435/problems/maximum-difference-between-even-and-odd-frequency-i/ |
 
 ### LeetCode Biweekly (Completed: 2)
 | No. | Week (Date)  | Question  | Level  | Url  |
 |:-----:|:--------------|:---------------|:------:|:------------|
-| 3254 | 137 (17th August 2024) | Find the Power of K-Size Subarrays I  | Medium  | https://leetcode.com/contest/biweekly-contest-137/problems/find-the-power-of-k-size-subarrays-i/ |
+| 3254 | 137 (17th Aug 2024) | Find the Power of K-Size Subarrays I  | Medium  | https://leetcode.com/contest/biweekly-contest-137/problems/find-the-power-of-k-size-subarrays-i/ |
 | Q1 | 149 (1st Feb 2025) | Find Valid Pair of Adjacent Digits in String  | Easy  | https://leetcode.com/contest/biweekly-contest-149/problems/find-valid-pair-of-adjacent-digits-in-string/ |
