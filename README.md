@@ -10,7 +10,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [x] Complete 39 questions before 2024-11-10 (3-month)
 - [x] Complete 60 questions before 2024-12-29 (2024 year-end) Late
 - [x] Complete 75 questions before 2025-02-10 (half year)
-- [ ] Complete 99 questions before 2025-03-31 (100 questions)
+- [ ] Complete 100 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
 ## Completed Questions (Total: 97)
