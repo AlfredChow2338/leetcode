@@ -13,11 +13,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 100 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 97)
+## Completed Questions (Total: 98)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 36  |
-| Medium  | 57  |
+| Medium  | 58  |
 | Hard  | 4  |
 
 ### Array and Hashing (Completed: 14)
@@ -38,7 +38,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 219 |  Contains Duplicate II | Easy  | https://leetcode.com/problems/contains-duplicate-ii/ |
 | 26 |  Remove Duplicates from Sorted Array | Easy  | https://leetcode.com/problems/remove-duplicates-from-sorted-array/ |
 
-### Backtracking (Completed: 6)
+### Backtracking (Completed: 7)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 78 | Subsets  | Medium  | https://leetcode.com/problems/subsets/ |
@@ -47,6 +47,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **40** | Combination Sum II  | Medium  | https://leetcode.com/problems/combination-sum-ii/ |
 | **46** | Permutations  | Medium  | https://leetcode.com/problems/permutations/ |
 | **79** | Word Search  | Medium  | https://leetcode.com/problems/word-search/ |
+| **131** | Palindrome Partitioning  | Medium  | https://leetcode.com/problems/palindrome-partitioning/ |
 
 
 ### Binary Search (Completed: 6)
