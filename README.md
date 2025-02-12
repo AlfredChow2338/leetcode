@@ -13,11 +13,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [x] Complete 100 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 100)
+## Completed Questions (Total: 101)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 36  |
-| Medium  | 60  |
+| Medium  | 61  |
 | Hard  | 4  |
 
 ### Array and Hashing (Completed: 14)
@@ -76,10 +76,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 |:------------:|:---------------|:---------------:|:------------|
 | 509 |  Fibonacci Number | Easy  | https://leetcode.com/problems/fibonacci-number/ |
 
-### Greedy Queue (Completed: 1)
+### Greedy Queue (Completed: 2)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 55 |  Jump Game | Easy  | https://leetcode.com/problems/jump-game/ |
+| 45 |  Jump Game II | Easy  | https://leetcode.com/problems/jump-game-ii/ |
 
 ### Heap and Priority Queue (Completed: 7)
 | No.  | Question  | Level  | Url  |
