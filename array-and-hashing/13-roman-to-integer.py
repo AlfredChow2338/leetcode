@@ -21,3 +21,41 @@ class Solution:
                 ans += m[s[i]]
         
         return ans
+
+class Solution:
+    def romanToInt(self, s: str) -> int:
+        m = {
+            "I": 1,
+            "IV": 4,
+            "V": 5,
+            "IX": 9,
+            "X": 10,
+            "XL": 40,
+            "L": 50,
+            "XC": 90,
+            "C": 100,
+            "CD": 400,
+            "D": 500,
+            "CM": 900,
+            "M": 1000
+        }
+        
+        i = 0
+        res = 0
+
+        while i < len(s):
+            st = ""
+            if i < len(s) - 1:
+                st = s[i:i+2]
+            else:
+                st = s[i:i+1]
+
+            if st == "IV" or st == "IX" or st == "XL" or st == "XC" or st == "CD" or st == "CM":
+                i += 1
+            else:
+                st = s[i:i+1]
+            
+            res += m[st]
+            i += 1
+
+        return res
