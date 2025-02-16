@@ -4,15 +4,15 @@ This repository is dedicated to my daily practice of solving LeetCode problems u
 ## Goals
 Starting from 11th August 2024, I am commited to complete at least 3 questions every week. The topics of the questions include array, hashing, two pointers, stack, binary search, linked list, sliding window, trees, heap, queue, priority queue, graphs, dynamic programming and etc. 
 
-
-### Check Points
+### Milestones
 - [x] Complete 3 questions before 2024-08-18 (1-week)
 - [x] Complete 12 questions before 2024-09-07 (1-month)
 - [x] Complete 39 questions before 2024-11-10 (3-month)
-- [x] Complete 60 questions before 2024-12-29 (2024 year-end) Late
+- [x] Complete 60 questions before 2024-12-31 (2024 year-end)
 - [x] Complete 75 questions before 2025-02-10 (half year)
-- [x] Complete 100 questions before 2025-03-31 (100 questions)
-- [ ] Complete 150 questions beofre 2025-08-10 (1-year)
+- [ ] Complete 100 questions before 2025-03-01 (100 questions)
+- [ ] Complete 300 questions beofre 2025-06-30 (300 questions)
+- [ ] Complete 500 questions beofre 2025-12-31 (500 questions)
 
 ## Completed Questions (Total: 99)
 | Difficulty  | Solved |
@@ -20,7 +20,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | Easy  | 34  |
 | Medium  | 61  |
 | Hard  | 4  |
-| Others (Lintcode, Neetcode, ...)  | 3  |
+| Others (Lintcode, Neetcode, etc)  | 3  |
 
 ### Array (Completed: 4)
 | No.  | Question  | Level  | Url  |
