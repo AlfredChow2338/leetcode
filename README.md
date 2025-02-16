@@ -10,14 +10,14 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [x] Complete 39 questions before 2024-11-10 (3-month)
 - [x] Complete 60 questions before 2024-12-31 (2024 year-end)
 - [x] Complete 75 questions before 2025-02-10 (half year)
-- [ ] Complete 100 questions before 2025-03-01 (100 questions)
+- [x] Complete 100 questions before 2025-03-01 (100 questions)
 - [ ] Complete 300 questions beofre 2025-06-30 (300 questions)
 - [ ] Complete 500 questions beofre 2025-12-31 (500 questions)
 
-## Completed Questions (Total: 99)
+## Completed Questions (Total: 100)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 34  |
+| Easy  | 35  |
 | Medium  | 61  |
 | Hard  | 4  |
 | Others (Lintcode, Neetcode, etc)  | 3  |
@@ -191,16 +191,17 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 ### LeetCode Weekly (Completed: 7)
 | No. | Week (Date)  | Question  | Level  | Url  |
 |:-----:|:--------------|:---------------|:------:|:------------|
-| 3258 | 411 (18th Aug 2024) | Count Substrings That Satisfy K-Constraint I  | Easy  | https://leetcode.com/contest/weekly-contest-411/problems/count-substrings-that-satisfy-k-constraint-i/ |
-| 3259 | 411 (18th Aug 2024) | Maximum Energy Boost From Two Drinks  | Medium  | https://leetcode.com/contest/weekly-contest-411/problems/maximum-energy-boost-from-two-drinks/ |
-| 100530 | 432 (12th Jan 2025) | Zigzag Grid Traversal With Skip  | Easy  | https://leetcode.com/contest/weekly-contest-432/problems/zigzag-grid-traversal-with-skip/ |
-| 3432 | 434 (26th Jan 2025) | Count Partitions with Even Sum Difference  | Easy  | https://leetcode.com/contest/weekly-contest-432/problems/count-partitions-with-even-sum-difference/ |
-| 3433 | 434 (26th Jan 2025) | Count Mentions Per User  | Medium  | https://leetcode.com/contest/weekly-contest-432/problems/count-mentions-per-user/ |
-| Q1 | 435 (2nd Feb 2025) | Maximum Difference Between Even and Odd Frequency I  | Easy  | https://leetcode.com/contest/weekly-contest-435/problems/maximum-difference-between-even-and-odd-frequency-i/ |
-| **Q2** | 435 (2nd Feb 2025) | Maximum Manhattan Distance After K Changes  | Medium  | https://leetcode.com/contest/weekly-contest-435/problems/maximum-difference-between-even-and-odd-frequency-i/ |
+| 3258 | 411 (18th Aug 2024) | Count Substrings That Satisfy K-Constraint I  | Easy  | https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/ |
+| 3259 | 411 (18th Aug 2024) | Maximum Energy Boost From Two Drinks  | Medium  | https://leetcode.com/problems/maximum-energy-boost-from-two-drinks/ |
+| 100530 | 432 (12th Jan 2025) | Zigzag Grid Traversal With Skip  | Easy  | https://leetcode.com/problems/zigzag-grid-traversal-with-skip/ |
+| 3432 | 434 (26th Jan 2025) | Count Partitions with Even Sum Difference  | Easy  | https://leetcode.com/problems/count-partitions-with-even-sum-difference/ |
+| 3433 | 434 (26th Jan 2025) | Count Mentions Per User  | Medium  | https://leetcode.com/problems/count-mentions-per-user/ |
+| Q1 | 435 (2nd Feb 2025) | Maximum Difference Between Even and Odd Frequency I  | Easy  | https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/ |
+| **Q2** | 435 (2nd Feb 2025) | Maximum Manhattan Distance After K Changes  | Medium  | https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/ |
+| 3456 | 437 (16th Feb 2025) | Find Special Substring of Length K  | Easy  | https://leetcode.com/problems/find-special-substring-of-length-k/ |
 
 ### LeetCode Biweekly (Completed: 2)
 | No. | Week (Date)  | Question  | Level  | Url  |
 |:-----:|:--------------|:---------------|:------:|:------------|
-| 3254 | 137 (17th Aug 2024) | Find the Power of K-Size Subarrays I  | Medium  | https://leetcode.com/contest/biweekly-contest-137/problems/find-the-power-of-k-size-subarrays-i/ |
-| Q1 | 149 (1st Feb 2025) | Find Valid Pair of Adjacent Digits in String  | Easy  | https://leetcode.com/contest/biweekly-contest-149/problems/find-valid-pair-of-adjacent-digits-in-string/ |
+| 3254 | 137 (17th Aug 2024) | Find the Power of K-Size Subarrays I  | Medium  | https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/ |
+| Q1 | 149 (1st Feb 2025) | Find Valid Pair of Adjacent Digits in String  | Easy  | https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string/ |
