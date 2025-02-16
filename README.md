@@ -14,42 +14,33 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [x] Complete 100 questions before 2025-03-31 (100 questions)
 - [ ] Complete 150 questions beofre 2025-08-10 (1-year)
 
-## Completed Questions (Total: 103)
+## Completed Questions (Total: 99)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 36  |
-| Medium  | 63  |
+| Easy  | 34  |
+| Medium  | 61  |
 | Hard  | 4  |
+| Others (Lintcode, Neetcode, ...)  | 3  |
 
-### Array and Hashing (Completed: 14)
+### Array (Completed: 4)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
-| 217 | Contains Duplicate  | Easy  | https://leetcode.com/problems/contains-duplicate/ |
-| 242 | Valid Anagram  | Easy  | https://leetcode.com/problems/valid-anagram/ |
-| 1 | Two Sum  | Easy  | https://leetcode.com/problems/two-sum/ |
-| 49 | Group Anagrams  | Medium  | https://leetcode.com/problems/group-anagrams/ |
-| 347 | Top K Frequent Elements  | Medium  | https://leetcode.com/problems/top-k-frequent-elements/ |
-| 238 | Product of Array Except Self  | Medium  | https://leetcode.com/problems/product-of-array-except-self/ |
-| 36 | Valid Sudoku  | Medium  | https://leetcode.com/problems/valid-sudoku/ |
-| 128 |  Longest Consecutive Sequence  | Medium  | https://leetcode.com/problems/longest-consecutive-sequence/ |
-| 659 |  Encode and Decode Strings  | Medium  | https://www.lintcode.com/problem/659 |
-| 2717 | Semi-Ordered Permutation  | Easy  | https://leetcode.com/problems/semi-ordered-permutation/ |
-| 485 | Max Consecutive Ones  | Easy  | https://leetcode.com/problems/max-consecutive-ones/ |
-| 13 | Roman to Integer  | Easy  | https://leetcode.com/problems/roman-to-integer/ |
-| 219 |  Contains Duplicate II | Easy  | https://leetcode.com/problems/contains-duplicate-ii/ |
 | 26 |  Remove Duplicates from Sorted Array | Easy  | https://leetcode.com/problems/remove-duplicates-from-sorted-array/ |
+| 485 | Max Consecutive Ones  | Easy  | https://leetcode.com/problems/max-consecutive-ones/ |
+| 2717 | Semi-Ordered Permutation  | Easy  | https://leetcode.com/problems/semi-ordered-permutation/ |
+| 659 |  Encode and Decode Strings  | Medium  | https://www.lintcode.com/problem/659 |
 
 ### Backtracking (Completed: 8)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
-| 78 | Subsets  | Medium  | https://leetcode.com/problems/subsets/ |
-| **90** | Subsets II  | Medium  | https://leetcode.com/problems/subsets-ii/ |
+| 17 | Letter Combinations of a Phone Number  | Medium  | https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/ |
 | 39 | Combination Sum  | Medium  | https://leetcode.com/problems/combination-sum/ |
 | **40** | Combination Sum II  | Medium  | https://leetcode.com/problems/combination-sum-ii/ |
 | **46** | Permutations  | Medium  | https://leetcode.com/problems/permutations/ |
+| 78 | Subsets  | Medium  | https://leetcode.com/problems/subsets/ |
 | **79** | Word Search  | Medium  | https://leetcode.com/problems/word-search/ |
+| **90** | Subsets II  | Medium  | https://leetcode.com/problems/subsets-ii/ |
 | **131** | Palindrome Partitioning  | Medium  | https://leetcode.com/problems/palindrome-partitioning/ |
-| 17 | Letter Combinations of a Phone Number  | Medium  | https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/ |
 
 
 ### Binary Search (Completed: 6)
@@ -57,8 +48,8 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 |:------------:|:---------------|:---------------:|:------------|
 | 704 |  Binary Search | Easy  | https://leetcode.com/problems/binary-search/ |
 | 74 |  Search a 2D Matrix | Medium  | https://leetcode.com/problems/search-a-2d-matrix/ |
-| **875** |  Koko Eating Bananas | Medium  | https://leetcode.com/problems/koko-eating-bananas/ |
 | 153 |  Find Minimum in Rotated Sorted Array | Medium  | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ |
+| **875** |  Koko Eating Bananas | Medium  | https://leetcode.com/problems/koko-eating-bananas/ |
 | **981** |  Time Based Key-Value Store | Medium  | https://leetcode.com/problems/time-based-key-value-store/ |
 | **4** | Median of Two Sorted Arrays  | Hard  | https://leetcode.com/problems/median-of-two-sorted-arrays/ |
 
@@ -80,9 +71,22 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 ### Greedy Queue (Completed: 3)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
-| 55 |  Jump Game | Medium  | https://leetcode.com/problems/jump-game/ |
 | 45 |  Jump Game II | Medium  | https://leetcode.com/problems/jump-game-ii/ |
+| 55 |  Jump Game | Medium  | https://leetcode.com/problems/jump-game/ |
 | 134 |  Gas Station | Medium  | https://leetcode.com/problems/gas-station/ |
+
+### Hash Map and Hash Set (Completed: 9)
+| No.  | Question  | Level  | Url  |
+|:------------:|:---------------|:---------------:|:------------|
+| 1 | Two Sum  | Easy  | https://leetcode.com/problems/two-sum/ |
+| 13 | Roman to Integer  | Easy  | https://leetcode.com/problems/roman-to-integer/ |
+| 217 | Contains Duplicate  | Easy  | https://leetcode.com/problems/contains-duplicate/ |
+| 219 |  Contains Duplicate II | Easy  | https://leetcode.com/problems/contains-duplicate-ii/ |
+| 242 | Valid Anagram  | Easy  | https://leetcode.com/problems/valid-anagram/ |
+| **36** | Valid Sudoku  | Medium  | https://leetcode.com/problems/valid-sudoku/ |
+| 49 | Group Anagrams  | Medium  | https://leetcode.com/problems/group-anagrams/ |
+| 128 |  Longest Consecutive Sequence  | Medium  | https://leetcode.com/problems/longest-consecutive-sequence/ |
+| 347 | Top K Frequent Elements  | Medium  | https://leetcode.com/problems/top-k-frequent-elements/ |
 
 ### Heap and Priority Queue (Completed: 7)
 | No.  | Question  | Level  | Url  |
@@ -90,10 +94,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 703 |  Kth Largest Element in a Stream | Easy  | https://leetcode.com/problems/kth-largest-element-in-a-stream/ |
 | 1046 |  Last Stone Weight | Easy  | https://leetcode.com/problems/last-stone-weight/ |
 | 2500 |  Delete Greatest Value in Each Row | Easy  | https://leetcode.com/problems/delete-greatest-value-in-each-row/ |
-| 973 |  K Closest Points to Origin | Medium  | https://leetcode.com/problems/k-closest-points-to-origin/ |
 | 215 |  Kth Largest Element in an Array | Medium  | https://leetcode.com/problems/kth-largest-element-in-an-array/ |
-| **621** |  Task Scheduler | Medium  | https://leetcode.com/problems/task-scheduler/ |
 | **355** |  Design Twitter | Medium  | https://leetcode.com/problems/design-twitter/ |
+| **621** |  Task Scheduler | Medium  | https://leetcode.com/problems/task-scheduler/ |
+| 973 |  K Closest Points to Origin | Medium  | https://leetcode.com/problems/k-closest-points-to-origin/ |
 
 ### Kadane Algorithm (Completed: 3)
 | No.  | Question  | Level  | Url  |
@@ -105,21 +109,21 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 ### Linked List (Completed: 9)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
-| 206 | Reverse Linked List  | Easy  | https://leetcode.com/problems/reverse-linked-list/ |
 | 21 | Merge Two Sorted Lists  | Easy  | https://leetcode.com/problems/merge-two-sorted-lists/ |
 | 141 | Linked List Cycle  | Easy  | https://leetcode.com/problems/linked-list-cycle/ |
-| 143 | Reorder List  | Medium  | https://leetcode.com/problems/reorder-list/ |
+| 206 | Reverse Linked List  | Easy  | https://leetcode.com/problems/reverse-linked-list/ |
+| 2 | Add Two Numbers  | Medium  | https://leetcode.com/problems/add-two-numbers/ |
 | 19 | Remove Nth Node From End of List  | Medium  | https://leetcode.com/problems/remove-nth-node-from-end-of-list/ |
 | 138 | Copy List with Random Pointer  | Medium  | https://leetcode.com/problems/copy-list-with-random-pointer/ |
-| 2 | Add Two Numbers  | Medium  | https://leetcode.com/problems/add-two-numbers/ |
-| 287 | Find the Duplicate Number  | Medium  | https://leetcode.com/problems/find-the-duplicate-number/ |
+| 143 | Reorder List  | Medium  | https://leetcode.com/problems/reorder-list/ |
 | 146 | LRU Cache  | Medium  | https://leetcode.com/problems/lru-cache/ |
+| 287 | Find the Duplicate Number  | Medium  | https://leetcode.com/problems/find-the-duplicate-number/ |
 
 ### Prefix Sum (Completed: 5)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
-| 238 | Product of Array Except Self  | Medium  | https://leetcode.com/problems/product-of-array-except-self/ |
 | 303 | Range Sum Query - Immutable  | Easy  | https://leetcode.com/problems/range-sum-query-immutable/ |
+| 238 | Product of Array Except Self  | Medium  | https://leetcode.com/problems/product-of-array-except-self/ |
 | **525** | Contiguous Array  | Medium  | https://leetcode.com/problems/contiguous-array/ |
 | **560** | Subarray Sum Equals K  | Medium  | https://leetcode.com/problems/subarray-sum-equals-k/ |
 | **1352** | Product of the Last K Numbers  | Medium  | https://leetcode.com/problems/product-of-the-last-k-numbers/ |
@@ -128,19 +132,19 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | **121** |  Best Time to Buy and Sell Stock | Easy  | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ |
-| **1004** |  Max Consecutive Ones III | Medium  | https://leetcode.com/problems/max-consecutive-ones-iii/ |
 | **3** |  Longest Substring Without Repeating Characters | Medium  | https://leetcode.com/problems/longest-substring-without-repeating-characters/ |
 | **424** |  Longest Repeating Character Replacement | Medium  | https://leetcode.com/problems/longest-repeating-character-replacement/ |
 | **567** |  Permutation in String | Medium  | https://leetcode.com/problems/permutation-in-string/ |
+| **1004** |  Max Consecutive Ones III | Medium  | https://leetcode.com/problems/max-consecutive-ones-iii/ |
 | **76** |  Minimum Window Substring | Hard  | https://leetcode.com/problems/minimum-window-substring/ |
 
 ### Stack (Completed: 7)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 20 |  Valid Parentheses | Easy  | https://leetcode.com/problems/valid-parentheses/ |
-| 155 |  Min Stack | Medium  | https://leetcode.com/problems/min-stack/ |
-| 150 |  Evaluate Reverse Polish Notation | Medium  | https://leetcode.com/problems/evaluate-reverse-polish-notation/ |
 | **22** |  Generate Parentheses | Medium  | https://leetcode.com/problems/generate-parentheses/ |
+| 150 |  Evaluate Reverse Polish Notation | Medium  | https://leetcode.com/problems/evaluate-reverse-polish-notation/ |
+| 155 |  Min Stack | Medium  | https://leetcode.com/problems/min-stack/ |
 | **739** |  Daily Temperatures | Medium  | https://leetcode.com/problems/daily-temperatures/ |
 | **853** |  Car Fleet | Medium  | https://leetcode.com/problems/car-fleet/ |
 | **84** |  Largest Rectangle in Histogram | Hard  | https://leetcode.com/problems/largest-rectangle-in-histogram/ |
@@ -155,19 +159,19 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 ### Trees (Completed: 13)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
-| 226 |  Invert Binary Tree | Easy  | https://leetcode.com/problems/invert-binary-tree/ |
-| 104 |  Maximum Depth of Binary Tree | Easy  | https://leetcode.com/problems/maximum-depth-of-binary-tree/ |
-| 543 |  Diameter of Binary Tree | Easy  | https://leetcode.com/problems/diameter-of-binary-tree/ |
-| 110 |  Balanced Binary Tree | Easy  | https://leetcode.com/problems/balanced-binary-tree/ |
 | 100 |  Same Tree | Easy  | https://leetcode.com/problems/same-tree/ |
+| 104 |  Maximum Depth of Binary Tree | Easy  | https://leetcode.com/problems/maximum-depth-of-binary-tree/ |
+| 110 |  Balanced Binary Tree | Easy  | https://leetcode.com/problems/balanced-binary-tree/ |
+| 226 |  Invert Binary Tree | Easy  | https://leetcode.com/problems/invert-binary-tree/ |
+| 543 |  Diameter of Binary Tree | Easy  | https://leetcode.com/problems/diameter-of-binary-tree/ |
 | 572 |  Subtree of Another Tree | Easy  | https://leetcode.com/problems/subtree-of-another-tree/ |
-| 235 |  Lowest Common Ancestor of a Binary Search Tree | Medium  | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ |
-| 102 |  Binary Tree Level Order Traversal | Medium  | https://leetcode.com/problems/binary-tree-level-order-traversal/ |
-| 199 |  Binary Tree Right Side View | Medium  | https://leetcode.com/problems/binary-tree-right-side-view/ |
-| 1448 |  Count Good Nodes in Binary Tree | Medium  | https://leetcode.com/problems/count-good-nodes-in-binary-tree/ |
 | 98 |  Validate Binary Search Tree | Medium  | https://leetcode.com/problems/validate-binary-search-tree/ |
-| 230 |  Kth Smallest Element in a BST | Medium  | https://leetcode.com/problems/kth-smallest-element-in-a-bst/ |
+| 102 |  Binary Tree Level Order Traversal | Medium  | https://leetcode.com/problems/binary-tree-level-order-traversal/ |
 | 105 |  Construct Binary Tree from Preorder and Inorder Traversal | Medium  | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ |
+| 199 |  Binary Tree Right Side View | Medium  | https://leetcode.com/problems/binary-tree-right-side-view/ |
+| 230 |  Kth Smallest Element in a BST | Medium  | https://leetcode.com/problems/kth-smallest-element-in-a-bst/ |
+| 235 |  Lowest Common Ancestor of a Binary Search Tree | Medium  | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ |
+| 1448 |  Count Good Nodes in Binary Tree | Medium  | https://leetcode.com/problems/count-good-nodes-in-binary-tree/ |
 
 ### Trie (Completed: 2)
 | No.  | Question  | Level  | Url  |
@@ -179,9 +183,9 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 125 |  Valid Palindrome  | Easy  | https://leetcode.com/problems/valid-palindrome/ |
-| **167** |  Two Sum II - Input Array Is Sorted  | Medium  | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ |
-| 15 |  3Sum  | Medium  | https://leetcode.com/problems/3sum/ |
 | 11 |  Container With Most Water  | Medium  | https://leetcode.com/problems/container-with-most-water/ |
+| 15 |  3Sum  | Medium  | https://leetcode.com/problems/3sum/ |
+| **167** |  Two Sum II - Input Array Is Sorted  | Medium  | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ |
 | **42** |  Trapping Rain Water  | Hard  | https://leetcode.com/problems/trapping-rain-water/ |
 
 ### LeetCode Weekly (Completed: 7)
