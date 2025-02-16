@@ -14,11 +14,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 300 questions beofre 2025-06-30 (300 questions)
 - [ ] Complete 500 questions beofre 2025-12-31 (500 questions)
 
-## Completed Questions (Total: 101)
+## Completed Questions (Total: 102)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 35  |
-| Medium  | 62  |
+| Medium  | 63  |
 | Hard  | 4  |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
@@ -188,7 +188,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **167** |  Two Sum II - Input Array Is Sorted  | Medium  | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ |
 | **42** |  Trapping Rain Water  | Hard  | https://leetcode.com/problems/trapping-rain-water/ |
 
-### LeetCode Weekly (Completed: 9)
+### LeetCode Weekly (Completed: 10)
 | No. | Week (Date)  | Question  | Level  | Url  |
 |:-----:|:--------------|:---------------|:------:|:------------|
 | 3258 | 411 (18th Aug 2024) | Count Substrings That Satisfy K-Constraint I  | Easy  | https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/ |
@@ -198,8 +198,9 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 3433 | 434 (26th Jan 2025) | Count Mentions Per User  | Medium  | https://leetcode.com/problems/count-mentions-per-user/ |
 | 3442 | 435 (2nd Feb 2025) | Maximum Difference Between Even and Odd Frequency I  | Easy  | https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/ |
 | **3443** | 435 (2nd Feb 2025) | Maximum Manhattan Distance After K Changes  | Medium  | https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/ |
-| 3456 | 437 (16th Feb 2025) | Find Special Substring of Length K  | Easy  | https://leetcode.com/problems/find-special-substring-of-length-k/ |
-| 3457 | 437 (16th Feb 2025) | Eat Pizzas!  | Medium  | https://leetcode.com/problems/eat-pizzas/ |
+| **3456** | 437 (16th Feb 2025) | Find Special Substring of Length K  | Easy  | https://leetcode.com/problems/find-special-substring-of-length-k/ |
+| **3457** | 437 (16th Feb 2025) | Eat Pizzas!  | Medium  | https://leetcode.com/problems/eat-pizzas/ |
+| **3458** | 437 (16th Feb 2025) | Select K Disjoint Special Substrings  | Medium  | https://leetcode.com/problems/select-k-disjoint-special-substrings/ |
 
 ### LeetCode Biweekly (Completed: 2)
 | No. | Week (Date)  | Question  | Level  | Url  |
