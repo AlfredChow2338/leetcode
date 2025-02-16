@@ -14,12 +14,12 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 300 questions beofre 2025-06-30 (300 questions)
 - [ ] Complete 500 questions beofre 2025-12-31 (500 questions)
 
-## Completed Questions (Total: 102)
+## Completed Questions (Total: 103)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 35  |
 | Medium  | 63  |
-| Hard  | 4  |
+| Hard  | 5  |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
 ### Array (Completed: 4)
@@ -188,7 +188,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **167** |  Two Sum II - Input Array Is Sorted  | Medium  | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ |
 | **42** |  Trapping Rain Water  | Hard  | https://leetcode.com/problems/trapping-rain-water/ |
 
-### LeetCode Weekly (Completed: 10)
+### LeetCode Weekly (Completed: 11)
 | No. | Week (Date)  | Question  | Level  | Url  |
 |:-----:|:--------------|:---------------|:------:|:------------|
 | 3258 | 411 (18th Aug 2024) | Count Substrings That Satisfy K-Constraint I  | Easy  | https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/ |
@@ -201,6 +201,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **3456** | 437 (16th Feb 2025) | Find Special Substring of Length K  | Easy  | https://leetcode.com/problems/find-special-substring-of-length-k/ |
 | **3457** | 437 (16th Feb 2025) | Eat Pizzas!  | Medium  | https://leetcode.com/problems/eat-pizzas/ |
 | **3458** | 437 (16th Feb 2025) | Select K Disjoint Special Substrings  | Medium  | https://leetcode.com/problems/select-k-disjoint-special-substrings/ |
+| **3459** | 437 (16th Feb 2025) | Length of Longest V-Shaped Diagonal Segment  | Hard  | https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/ |
 
 ### LeetCode Biweekly (Completed: 2)
 | No. | Week (Date)  | Question  | Level  | Url  |
