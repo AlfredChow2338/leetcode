@@ -14,11 +14,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 300 questions beofre 2025-06-30 (300 questions)
 - [ ] Complete 500 questions beofre 2025-12-31 (500 questions)
 
-## Completed Questions (Total: 106)
+## Completed Questions (Total: 107)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 35  |
-| Medium  | 66  |
+| Medium  | 67  |
 | Hard  | 5  |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
@@ -77,7 +77,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 134 |  Gas Station | Medium  | https://leetcode.com/problems/gas-station/ |
 | 2740 |  Find the Value of the Partition | Medium  | https://leetcode.com/problems/find-the-value-of-the-partition/ |
 
-### Hash Map and Hash Set (Completed: 9)
+### Hash Map and Hash Set (Completed: 10)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 1 | Two Sum  | Easy  | https://leetcode.com/problems/two-sum/ |
@@ -89,6 +89,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 49 | Group Anagrams  | Medium  | https://leetcode.com/problems/group-anagrams/ |
 | 128 |  Longest Consecutive Sequence  | Medium  | https://leetcode.com/problems/longest-consecutive-sequence/ |
 | 347 | Top K Frequent Elements  | Medium  | https://leetcode.com/problems/top-k-frequent-elements/ |
+| 2711 | Difference of Number of Distinct Values on Diagonals  | Medium  | https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/ |
 
 ### Heap and Priority Queue (Completed: 7)
 | No.  | Question  | Level  | Url  |
