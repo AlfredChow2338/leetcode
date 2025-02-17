@@ -14,11 +14,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 300 questions beofre 2025-06-30 (300 questions)
 - [ ] Complete 500 questions beofre 2025-12-31 (500 questions)
 
-## Completed Questions (Total: 104)
+## Completed Questions (Total: 105)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 35  |
-| Medium  | 64  |
+| Medium  | 65  |
 | Hard  | 5  |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
@@ -68,12 +68,13 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 |:------------:|:---------------|:---------------:|:------------|
 | 509 |  Fibonacci Number | Easy  | https://leetcode.com/problems/fibonacci-number/ |
 
-### Greedy Queue (Completed: 3)
+### Greedy Queue (Completed: 4)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 45 |  Jump Game II | Medium  | https://leetcode.com/problems/jump-game-ii/ |
 | 55 |  Jump Game | Medium  | https://leetcode.com/problems/jump-game/ |
 | 134 |  Gas Station | Medium  | https://leetcode.com/problems/gas-station/ |
+| 2740 |  Find the Value of the Partition | Medium  | https://leetcode.com/problems/find-the-value-of-the-partition/ |
 
 ### Hash Map and Hash Set (Completed: 9)
 | No.  | Question  | Level  | Url  |
