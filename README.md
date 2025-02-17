@@ -14,11 +14,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 300 questions beofre 2025-06-30 (300 questions)
 - [ ] Complete 500 questions beofre 2025-12-31 (500 questions)
 
-## Completed Questions (Total: 105)
+## Completed Questions (Total: 106)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 35  |
-| Medium  | 65  |
+| Medium  | 66  |
 | Hard  | 5  |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
@@ -30,7 +30,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 2717 | Semi-Ordered Permutation  | Easy  | https://leetcode.com/problems/semi-ordered-permutation/ |
 | 659 |  Encode and Decode Strings  | Medium  | https://www.lintcode.com/problem/659 |
 
-### Backtracking (Completed: 9)
+### Backtracking (Completed: 10)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 17 | Letter Combinations of a Phone Number  | Medium  | https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/ |
@@ -41,6 +41,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **79** | Word Search  | Medium  | https://leetcode.com/problems/word-search/ |
 | **90** | Subsets II  | Medium  | https://leetcode.com/problems/subsets-ii/ |
 | **131** | Palindrome Partitioning  | Medium  | https://leetcode.com/problems/palindrome-partitioning/ |
+| 1079 | Letter Tile Possibilities  | Medium  | https://leetcode.com/problems/letter-tile-possibilities/ |
 | **1718** | Construct the Lexicographically Largest Valid Sequence  | Medium  | https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/ |
 
 ### Binary Search (Completed: 6)
