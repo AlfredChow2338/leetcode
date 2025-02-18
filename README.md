@@ -14,11 +14,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 300 questions beofre 2025-06-30 (300 questions)
 - [ ] Complete 500 questions beofre 2025-12-31 (500 questions)
 
-## Completed Questions (Total: 107)
+## Completed Questions (Total: 108)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 35  |
-| Medium  | 67  |
+| Medium  | 68  |
 | Hard  | 5  |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
@@ -141,7 +141,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **1004** |  Max Consecutive Ones III | Medium  | https://leetcode.com/problems/max-consecutive-ones-iii/ |
 | **76** |  Minimum Window Substring | Hard  | https://leetcode.com/problems/minimum-window-substring/ |
 
-### Stack (Completed: 7)
+### Stack (Completed: 8)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 20 |  Valid Parentheses | Easy  | https://leetcode.com/problems/valid-parentheses/ |
@@ -150,6 +150,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 155 |  Min Stack | Medium  | https://leetcode.com/problems/min-stack/ |
 | **739** |  Daily Temperatures | Medium  | https://leetcode.com/problems/daily-temperatures/ |
 | **853** |  Car Fleet | Medium  | https://leetcode.com/problems/car-fleet/ |
+| **2375** |  Construct Smallest Number From DI String | Medium  | https://leetcode.com/problems/construct-smallest-number-from-di-string/ |
 | **84** |  Largest Rectangle in Histogram | Hard  | https://leetcode.com/problems/largest-rectangle-in-histogram/ |
 
 ### String (Completed: 3)
