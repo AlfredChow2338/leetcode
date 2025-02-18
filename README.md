@@ -14,11 +14,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 300 questions beofre 2025-06-30 (300 questions)
 - [ ] Complete 500 questions beofre 2025-12-31 (500 questions)
 
-## Completed Questions (Total: 109)
+## Completed Questions (Total: 110)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 36  |
-| Medium  | 68  |
+| Medium  | 69  |
 | Hard  | 5  |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
@@ -182,11 +182,12 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 235 |  Lowest Common Ancestor of a Binary Search Tree | Medium  | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ |
 | 1448 |  Count Good Nodes in Binary Tree | Medium  | https://leetcode.com/problems/count-good-nodes-in-binary-tree/ |
 
-### Trie (Completed: 2)
+### Trie (Completed: 3)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 208 |  Implement Trie (Prefix Tree) | Medium  | https://leetcode.com/problems/implement-trie-prefix-tree/ |
 | **211** |  Design Add and Search Words Data Structure | Medium  | https://leetcode.com/problems/design-add-and-search-words-data-structure/ |
+| **2707** |  Extra Characters in a String | Medium  | https://leetcode.com/problems/extra-characters-in-a-string/ |
 
 ### Two Pointers (Completed: 5)
 | No.  | Question  | Level  | Url  |
