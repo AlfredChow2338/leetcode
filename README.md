@@ -14,10 +14,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 300 questions beofre 2025-06-30 (300 questions)
 - [ ] Complete 500 questions beofre 2025-12-31 (500 questions)
 
-## Completed Questions (Total: 108)
+## Completed Questions (Total: 109)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 35  |
+| Easy  | 36  |
 | Medium  | 68  |
 | Hard  | 5  |
 | Others (Lintcode, Neetcode, etc)  | 3  |
@@ -53,6 +53,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **875** |  Koko Eating Bananas | Medium  | https://leetcode.com/problems/koko-eating-bananas/ |
 | **981** |  Time Based Key-Value Store | Medium  | https://leetcode.com/problems/time-based-key-value-store/ |
 | **4** | Median of Two Sorted Arrays  | Hard  | https://leetcode.com/problems/median-of-two-sorted-arrays/ |
+
+### Concurrency (Completed: 1)
+| No.  | Question  | Level  | Url  |
+|:------------:|:---------------|:---------------:|:------------|
+| 1114 |  Print in Order  | Easy  | https://leetcode.com/problems/print-in-order/ |
 
 ### Data Structure Implementation (Completed: 1)
 | Question  | Level  | Url  |
