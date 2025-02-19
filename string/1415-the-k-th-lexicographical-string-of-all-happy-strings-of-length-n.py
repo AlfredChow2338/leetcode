@@ -18,3 +18,26 @@ class Solution:
                 cur += partition_size
 
         return "".join(res)
+
+# backtracking
+class Solution:
+    def getHappyString(self, n: int, k: int) -> str:
+        curr_str = ""
+        happy_strs = []
+
+        def generate_happy_strs(curr_str, happy_strs):
+            if len(curr_str) == n:
+                happy_strs.append(curr_str)
+                return
+            for c in "abc":
+                if len(curr_str) > 0 and curr_str[-1] == c:
+                    continue
+                generate_happy_strs(curr_str + c, happy_strs)
+
+        generate_happy_strs(curr_str, happy_strs)
+        
+        if len(happy_strs) < k:
+            return ""
+        
+        happy_strs.sort()
+        return happy_strs[k - 1]
