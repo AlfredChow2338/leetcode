@@ -14,12 +14,12 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 300 questions beofre 2025-06-30 (300 questions)
 - [ ] Complete 500 questions beofre 2025-12-31 (500 questions)
 
-## Completed Questions (Total: 110)
+## Completed Questions (Total: 111)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 36  |
-| Medium  | 69  |
-| Hard  | 5  |
+| Easy  | 36 |
+| Medium  | 70 |
+| Hard  | 5 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
 ### Array (Completed: 4)
@@ -158,12 +158,13 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **2375** |  Construct Smallest Number From DI String | Medium  | https://leetcode.com/problems/construct-smallest-number-from-di-string/ |
 | **84** |  Largest Rectangle in Histogram | Hard  | https://leetcode.com/problems/largest-rectangle-in-histogram/ |
 
-### String (Completed: 3)
+### String (Completed: 4)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 58 | Length of Last Word  | Easy  | https://leetcode.com/problems/length-of-last-word/ |
 | 66 | Plus One  | Easy  | https://leetcode.com/problems/plus-one/ |
 | 1408 | String Matching in an Array  | Easy  | https://leetcode.com/problems/string-matching-in-an-array/ |
+| **1415** | The k-th Lexicographical String of All Happy Strings of Length n  | Medium  | https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/ |
 
 ### Trees (Completed: 13)
 | No.  | Question  | Level  | Url  |
