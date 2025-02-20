@@ -8,7 +8,7 @@ class Solution:
             res.append("1" if curr == "0" else "0")
         return "".join(res)
 
-# bakctracking
+# backtracking
 class Solution:
     def findDifferentBinaryString(self, nums: List[str]) -> str:
         def backtrack(curr):
