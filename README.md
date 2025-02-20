@@ -14,11 +14,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 300 questions beofre 2025-06-30 (300 questions)
 - [ ] Complete 500 questions beofre 2025-12-31 (500 questions)
 
-## Completed Questions (Total: 114)
+## Completed Questions (Total: 115)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 36 |
-| Medium  | 73 |
+| Medium  | 74 |
 | Hard  | 5 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
@@ -75,13 +75,14 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 |:------------:|:---------------|:---------------:|:------------|
 | 509 |  Fibonacci Number | Easy  | https://leetcode.com/problems/fibonacci-number/ |
 
-### Greedy Queue (Completed: 4)
+### Greedy Queue (Completed: 5)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 45 |  Jump Game II | Medium  | https://leetcode.com/problems/jump-game-ii/ |
 | 55 |  Jump Game | Medium  | https://leetcode.com/problems/jump-game/ |
 | 134 |  Gas Station | Medium  | https://leetcode.com/problems/gas-station/ |
 | 2740 |  Find the Value of the Partition | Medium  | https://leetcode.com/problems/find-the-value-of-the-partition/ |
+| **3439** |  Reschedule Meetings for Maximum Free Time I | Medium  | https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/ |
 
 ### Hash Map and Hash Set (Completed: 10)
 | No.  | Question  | Level  | Url  |
