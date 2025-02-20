@@ -1,3 +1,4 @@
+# prefix sum
 class Solution:
     def maxFreeTime(self, eventTime, k, startTime, endTime):
         res = 0
@@ -18,3 +19,28 @@ class Solution:
             res = max(res, pref[i] - pref[i - (k + 1)])
         
         return res
+    
+# sliding window
+class Solution:
+    def maxFreeTime(self, eventTime, k, startTime, endTime):
+        res = 0
+        n = len(startTime)
+        gaps = [0] * (n + 1)
+
+        gaps[0] = startTime[0]
+        gaps[n] = eventTime - endTime[-1]
+
+        for i in range(1, n):
+            gaps[i] = startTime[i] - endTime[i-1]
+        
+        window = sum(gaps[:k+1])
+        print(gaps, gaps[:k+1])
+        res = window
+        
+        for i in range(k+1, n+1):
+            window += gaps[i] - gaps[i-(k+1)]
+            print(window)
+            res = max(res, window)
+        
+        return res
+
