@@ -14,11 +14,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 300 questions beofre 2025-06-30 (300 questions)
 - [ ] Complete 500 questions beofre 2025-12-31 (500 questions)
 
-## Completed Questions (Total: 117)
+## Completed Questions (Total: 118)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 36 |
-| Medium  | 76 |
+| Medium  | 77 |
 | Hard  | 5 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
@@ -171,7 +171,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 1408 | String Matching in an Array  | Easy  | https://leetcode.com/problems/string-matching-in-an-array/ |
 | **1415** | The k-th Lexicographical String of All Happy Strings of Length n  | Medium  | https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/ |
 
-### Trees (Completed: 14)
+### Trees (Completed: 15)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 100 |  Same Tree | Easy  | https://leetcode.com/problems/same-tree/ |
@@ -186,6 +186,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 199 |  Binary Tree Right Side View | Medium  | https://leetcode.com/problems/binary-tree-right-side-view/ |
 | 230 |  Kth Smallest Element in a BST | Medium  | https://leetcode.com/problems/kth-smallest-element-in-a-bst/ |
 | 235 |  Lowest Common Ancestor of a Binary Search Tree | Medium  | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ |
+| 889 |  Construct Binary Tree from Preorder and Postorder Traversal | Medium  | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/ |
 | 1261 |  Find Elements in a Contaminated Binary Tree | Medium  | https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/ |
 | 1448 |  Count Good Nodes in Binary Tree | Medium  | https://leetcode.com/problems/count-good-nodes-in-binary-tree/ |
 
