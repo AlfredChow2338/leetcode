@@ -15,12 +15,12 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 300 questions beofre 2025-06-30 (300 questions)
 - [ ] Complete 500 questions beofre 2025-12-31 (500 questions)
 
-## Completed Questions (Total: 119)
+## Completed Questions (Total: 120)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 36 |
 | Medium  | 78 |
-| Hard  | 5 |
+| Hard  | 6 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
 ### Array (Completed: 4)
@@ -172,7 +172,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 1408 | String Matching in an Array  | Easy  | https://leetcode.com/problems/string-matching-in-an-array/ |
 | **1415** | The k-th Lexicographical String of All Happy Strings of Length n  | Medium  | https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/ |
 
-### Trees (Completed: 16)
+### Trees (Completed: 17)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 100 |  Same Tree | Easy  | https://leetcode.com/problems/same-tree/ |
@@ -191,6 +191,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 1261 |  Find Elements in a Contaminated Binary Tree | Medium  | https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/ |
 | 1448 |  Count Good Nodes in Binary Tree | Medium  | https://leetcode.com/problems/count-good-nodes-in-binary-tree/ |
 | 2467 |  Most Profitable Path in a Tree | Medium  | https://leetcode.com/problems/most-profitable-path-in-a-tree/ |
+| 1028 |  Recover a Tree From Preorder Traversal | Hard  | https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/ |
 
 ### Trie (Completed: 3)
 | No.  | Question  | Level  | Url  |
