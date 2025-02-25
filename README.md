@@ -15,11 +15,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 300 questions beofre 2025-06-30 (300 questions)
 - [ ] Complete 500 questions beofre 2025-12-31 (500 questions)
 
-## Completed Questions (Total: 120)
+## Completed Questions (Total: 121)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 36 |
-| Medium  | 78 |
+| Medium  | 79 |
 | Hard  | 6 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
@@ -131,7 +131,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 146 | LRU Cache  | Medium  | https://leetcode.com/problems/lru-cache/ |
 | 287 | Find the Duplicate Number  | Medium  | https://leetcode.com/problems/find-the-duplicate-number/ |
 
-### Prefix Sum (Completed: 5)
+### Prefix Sum (Completed: 6)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 303 | Range Sum Query - Immutable  | Easy  | https://leetcode.com/problems/range-sum-query-immutable/ |
@@ -139,6 +139,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **525** | Contiguous Array  | Medium  | https://leetcode.com/problems/contiguous-array/ |
 | **560** | Subarray Sum Equals K  | Medium  | https://leetcode.com/problems/subarray-sum-equals-k/ |
 | **1352** | Product of the Last K Numbers  | Medium  | https://leetcode.com/problems/product-of-the-last-k-numbers/ |
+| **1524** | Number of Sub-arrays With Odd Sum  | Medium  | https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/ |
 
 ### Sliding Window (Completed: 8)
 | No.  | Question  | Level  | Url  |
