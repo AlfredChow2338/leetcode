@@ -15,11 +15,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 300 questions beofre 2025-06-30 (300 questions)
 - [ ] Complete 500 questions beofre 2025-12-31 (500 questions)
 
-## Completed Questions (Total: 123)
+## Completed Questions (Total: 124)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 37 |
-| Medium  | 80 |
+| Medium  | 81 |
 | Hard  | 6 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
@@ -71,10 +71,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 |:---------------|:---------------:|:------------|
 |  Factory Method Pattern | Easy  | https://neetcode.io/problems/factory |
 
-### Dynamic Programming (Completed: 1)
+### Dynamic Programming (Completed: 2)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 509 |  Fibonacci Number | Easy  | https://leetcode.com/problems/fibonacci-number/ |
+| 873 |  Length of Longest Fibonacci Subsequence | Medium  | https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/ |
 
 ### Greedy Queue (Completed: 7)
 | No.  | Question  | Level  | Url  |
