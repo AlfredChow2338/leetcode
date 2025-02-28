@@ -29,3 +29,23 @@ class Solution:
 
         # Add 2 to include first two numbers, or return 0 if no sequence found
         return max_len + 2 if max_len else 0
+    
+class Solution:
+    def lenLongestFibSubseq(self, arr: list[int]) -> int:
+        arr_map = {n:i for i, n in enumerate(arr)}
+        max_len = 0
+        n = len(arr)
+        dp = {} # (i, j) -> longest length
+
+        for i in reversed(range(n - 1)):
+            for j in reversed(range(i + 1, n)):
+                prev, curr = arr[i], arr[j]
+                nxt = prev + curr
+                curr_len = 2
+
+                if nxt in arr_map:
+                    curr_len = 1 + dp[(j, arr_map[nxt])]
+                    max_len = max(max_len, curr_len)
+                dp[(i, j)] = curr_len
+
+        return max_len  
