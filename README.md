@@ -15,11 +15,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 300 questions beofre 2025-06-30 (300 questions)
 - [ ] Complete 500 questions beofre 2025-12-31 (500 questions)
 
-## Completed Questions (Total: 127)
+## Completed Questions (Total: 128)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 37 |
-| Medium  | 83 |
+| Medium  | 84 |
 | Hard  | 7 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
@@ -90,7 +90,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **3439** |  Reschedule Meetings for Maximum Free Time I | Medium  | https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/ |
 | **3440** |  Reschedule Meetings for Maximum Free Time II | Medium  | https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/ |
 
-### Hash Map and Hash Set (Completed: 11)
+### Hash Map and Hash Set (Completed: 12)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 1 | Two Sum  | Easy  | https://leetcode.com/problems/two-sum/ |
@@ -103,6 +103,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 128 |  Longest Consecutive Sequence  | Medium  | https://leetcode.com/problems/longest-consecutive-sequence/ |
 | 347 | Top K Frequent Elements  | Medium  | https://leetcode.com/problems/top-k-frequent-elements/ |
 | 1296 | Divide Array in Sets of K Consecutive Numbers  | Medium  | https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/ |
+| 1899 | Merge Triplets to Form Target Triplet  | Medium  | https://leetcode.com/problems/merge-triplets-to-form-target-triplet/ |
 | 2711 | Difference of Number of Distinct Values on Diagonals  | Medium  | https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/ |
 
 ### Heap and Priority Queue (Completed: 7)
