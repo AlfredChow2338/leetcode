@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def applyOperations(self, nums: List[int]) -> List[int]:
         L, R = 0, 1
