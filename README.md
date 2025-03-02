@@ -15,10 +15,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 300 questions beofre 2025-06-30 (300 questions)
 - [ ] Complete 500 questions beofre 2025-12-31 (500 questions)
 
-## Completed Questions (Total: 128)
+## Completed Questions (Total: 129)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 37 |
+| Easy  | 38 |
 | Medium  | 84 |
 | Hard  | 7 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
@@ -207,11 +207,12 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **211** |  Design Add and Search Words Data Structure | Medium  | https://leetcode.com/problems/design-add-and-search-words-data-structure/ |
 | **2707** |  Extra Characters in a String | Medium  | https://leetcode.com/problems/extra-characters-in-a-string/ |
 
-### Two Pointers (Completed: 6)
+### Two Pointers (Completed: 7)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 125 |  Valid Palindrome  | Easy  | https://leetcode.com/problems/valid-palindrome/ |
 | 283 |  Move Zeroes  | Easy  | https://leetcode.com/problems/move-zeroes/ |
+| 2570 |  Merge Two 2D Arrays by Summing Values  | Easy  | https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/ |
 | 11 |  Container With Most Water  | Medium  | https://leetcode.com/problems/container-with-most-water/ |
 | 15 |  3Sum  | Medium  | https://leetcode.com/problems/3sum/ |
 | **167** |  Two Sum II - Input Array Is Sorted  | Medium  | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ |
