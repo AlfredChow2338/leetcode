@@ -15,11 +15,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 300 questions beofre 2025-06-30 (300 questions)
 - [ ] Complete 500 questions beofre 2025-12-31 (500 questions)
 
-## Completed Questions (Total: 131)
+## Completed Questions (Total: 132)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 39 |
-| Medium  | 85 |
+| Medium  | 86 |
 | Hard  | 7 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
@@ -78,12 +78,13 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 873 |  Length of Longest Fibonacci Subsequence | Medium  | https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/ |
 | 1092 |  Shortest Common Supersequence  | Hard  | https://leetcode.com/problems/shortest-common-supersequence/ |
 
-### Greedy Queue (Completed: 8)
+### Greedy (Completed: 9)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 45 |  Jump Game II | Medium  | https://leetcode.com/problems/jump-game-ii/ |
 | 55 |  Jump Game | Medium  | https://leetcode.com/problems/jump-game/ |
 | 134 |  Gas Station | Medium  | https://leetcode.com/problems/gas-station/ |
+| **763** |  Partition Labels | Medium  | https://leetcode.com/problems/partition-labels/ |
 | 846 |  Hand of Straights | Medium  | https://leetcode.com/problems/hand-of-straights/ |
 | 1749 |  Maximum Absolute Sum of Any Subarray | Medium  | https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/ |
 | 2740 |  Find the Value of the Partition | Medium  | https://leetcode.com/problems/find-the-value-of-the-partition/ |
