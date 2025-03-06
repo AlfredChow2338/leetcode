@@ -15,10 +15,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 300 questions beofre 2025-06-30 (300 questions)
 - [ ] Complete 500 questions beofre 2025-12-31 (500 questions)
 
-## Completed Questions (Total: 136)
+## Completed Questions (Total: 137)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 40 |
+| Easy  | 41 |
 | Medium  | 89 |
 | Hard  | 7 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
@@ -180,9 +180,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **2375** |  Construct Smallest Number From DI String | Medium  | https://leetcode.com/problems/construct-smallest-number-from-di-string/ |
 | **84** |  Largest Rectangle in Histogram | Hard  | https://leetcode.com/problems/largest-rectangle-in-histogram/ |
 
-### String (Completed: 4)
+### String (Completed: 5)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
+| 14 | Longest Common Prefix  | Easy  | https://leetcode.com/problems/longest-common-prefix/ |
 | 58 | Length of Last Word  | Easy  | https://leetcode.com/problems/length-of-last-word/ |
 | 66 | Plus One  | Easy  | https://leetcode.com/problems/plus-one/ |
 | 1408 | String Matching in an Array  | Easy  | https://leetcode.com/problems/string-matching-in-an-array/ |
