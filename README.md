@@ -4,21 +4,20 @@ This repository is dedicated to my daily practice of solving LeetCode problems u
 ## Goals
 Starting from 11th August 2024, I am commited to complete at least 3 questions every week. The topics of the questions include array, hashing, two pointers, stack, binary search, linked list, sliding window, trees, heap, queue, priority queue, graphs, dynamic programming and etc. 
 
-
 ### Milestones
 - [x] Complete 3 questions before 2024-08-18 (1-week)
 - [x] Complete 12 questions before 2024-09-07 (1-month)
 - [x] Complete 39 questions before 2024-11-10 (3-month)
 - [x] Complete 60 questions before 2024-12-31 (2024 year-end)
 - [x] Complete 75 questions before 2025-02-10 (half year)
-- [x] Complete 100 questions before 2025-03-01 (100 questions)
-- [ ] Complete 300 questions beofre 2025-06-30 (300 questions)
-- [ ] Complete 500 questions beofre 2025-12-31 (500 questions)
+- [x] Complete 100 questions before 2025-03-01
+- [ ] Complete 200 questions beofre 2025-06-30
+- [ ] Complete 350 questions beofre 2025-12-31 
 
-## Completed Questions (Total: 139)
+## Completed Questions (Total: 140)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 41 |
+| Easy  | 42 |
 | Medium  | 90 |
 | Hard  | 8 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
@@ -72,9 +71,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 |:---------------|:---------------:|:------------|
 |  Factory Method Pattern | Easy  | https://neetcode.io/problems/factory |
 
-### Dynamic Programming (Completed: 4)
+### Dynamic Programming (Completed: 5)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
+| 70 |  Climbing Stairs | Easy  | https://leetcode.com/problems/climbing-stairs/ |
 | 509 |  Fibonacci Number | Easy  | https://leetcode.com/problems/fibonacci-number/ |
 | **678** |  Valid Parenthesis String | Medium  | https://leetcode.com/problems/valid-parenthesis-string/ |
 | **873** |  Length of Longest Fibonacci Subsequence | Medium  | https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/ |
