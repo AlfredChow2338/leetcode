@@ -14,10 +14,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 200 questions beofre 2025-06-30
 - [ ] Complete 350 questions beofre 2025-12-31 
 
-## Completed Questions (Total: 140)
+## Completed Questions (Total: 141)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 42 |
+| Easy  | 43 |
 | Medium  | 90 |
 | Hard  | 8 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
@@ -71,11 +71,12 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 |:---------------|:---------------:|:------------|
 |  Factory Method Pattern | Easy  | https://neetcode.io/problems/factory |
 
-### Dynamic Programming (Completed: 5)
+### Dynamic Programming (Completed: 6)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 70 |  Climbing Stairs | Easy  | https://leetcode.com/problems/climbing-stairs/ |
 | 509 |  Fibonacci Number | Easy  | https://leetcode.com/problems/fibonacci-number/ |
+| 746 |  Min Cost Climbing Stairs | Easy  | https://leetcode.com/problems/min-cost-climbing-stairs/ |
 | **678** |  Valid Parenthesis String | Medium  | https://leetcode.com/problems/valid-parenthesis-string/ |
 | **873** |  Length of Longest Fibonacci Subsequence | Medium  | https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/ |
 | **1092** |  Shortest Common Supersequence  | Hard  | https://leetcode.com/problems/shortest-common-supersequence/ |
