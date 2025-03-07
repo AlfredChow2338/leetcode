@@ -15,11 +15,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 300 questions beofre 2025-06-30 (300 questions)
 - [ ] Complete 500 questions beofre 2025-12-31 (500 questions)
 
-## Completed Questions (Total: 137)
+## Completed Questions (Total: 138)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 41 |
-| Medium  | 89 |
+| Medium  | 90 |
 | Hard  | 7 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
@@ -141,9 +141,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 146 | LRU Cache  | Medium  | https://leetcode.com/problems/lru-cache/ |
 | 287 | Find the Duplicate Number  | Medium  | https://leetcode.com/problems/find-the-duplicate-number/ |
 
-### Math (Completed: 1)
+### Math (Completed: 2)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
+| 2523 | Closest Prime Numbers in Range  | Medium  | https://leetcode.com/problems/closest-prime-numbers-in-range/ |
 | 2579 | Count Total Number of Colored Cells  | Medium  | https://leetcode.com/problems/count-total-number-of-colored-cells/ |
 
 ### Prefix Sum (Completed: 6)
