@@ -15,12 +15,12 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 300 questions beofre 2025-06-30 (300 questions)
 - [ ] Complete 500 questions beofre 2025-12-31 (500 questions)
 
-## Completed Questions (Total: 138)
+## Completed Questions (Total: 139)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 41 |
 | Medium  | 90 |
-| Hard  | 7 |
+| Hard  | 8 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
 ### Array (Completed: 5)
@@ -211,12 +211,13 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 2467 |  Most Profitable Path in a Tree | Medium  | https://leetcode.com/problems/most-profitable-path-in-a-tree/ |
 | 1028 |  Recover a Tree From Preorder Traversal | Hard  | https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/ |
 
-### Trie (Completed: 3)
+### Trie (Completed: 4)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 208 |  Implement Trie (Prefix Tree) | Medium  | https://leetcode.com/problems/implement-trie-prefix-tree/ |
 | **211** |  Design Add and Search Words Data Structure | Medium  | https://leetcode.com/problems/design-add-and-search-words-data-structure/ |
 | **2707** |  Extra Characters in a String | Medium  | https://leetcode.com/problems/extra-characters-in-a-string/ |
+| **212** |  Word Search II | Hard  | https://leetcode.com/problems/word-search-ii/ |
 
 ### Two Pointers (Completed: 9)
 | No.  | Question  | Level  | Url  |
