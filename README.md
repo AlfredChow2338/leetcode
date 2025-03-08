@@ -14,10 +14,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 200 questions beofre 2025-06-30
 - [ ] Complete 350 questions beofre 2025-12-31 
 
-## Completed Questions (Total: 141)
+## Completed Questions (Total: 142)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 43 |
+| Easy  | 44 |
 | Medium  | 90 |
 | Hard  | 8 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
@@ -158,10 +158,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **1352** | Product of the Last K Numbers  | Medium  | https://leetcode.com/problems/product-of-the-last-k-numbers/ |
 | **1524** | Number of Sub-arrays With Odd Sum  | Medium  | https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/ |
 
-### Sliding Window (Completed: 8)
+### Sliding Window (Completed: 9)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | **121** |  Best Time to Buy and Sell Stock | Easy  | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ |
+| 2379 |  Minimum Recolors to Get K Consecutive Black Blocks | Easy  | https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/ |
 | **3** |  Longest Substring Without Repeating Characters | Medium  | https://leetcode.com/problems/longest-substring-without-repeating-characters/ |
 | **424** |  Longest Repeating Character Replacement | Medium  | https://leetcode.com/problems/longest-repeating-character-replacement/ |
 | **567** |  Permutation in String | Medium  | https://leetcode.com/problems/permutation-in-string/ |
