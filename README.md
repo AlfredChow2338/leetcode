@@ -14,11 +14,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 200 questions beofre 2025-06-30
 - [ ] Complete 350 questions beofre 2025-12-31 
 
-## Completed Questions (Total: 142)
+## Completed Questions (Total: 143)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 44 |
-| Medium  | 90 |
+| Medium  | 91 |
 | Hard  | 8 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
@@ -158,7 +158,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **1352** | Product of the Last K Numbers  | Medium  | https://leetcode.com/problems/product-of-the-last-k-numbers/ |
 | **1524** | Number of Sub-arrays With Odd Sum  | Medium  | https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/ |
 
-### Sliding Window (Completed: 9)
+### Sliding Window (Completed: 10)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | **121** |  Best Time to Buy and Sell Stock | Easy  | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ |
@@ -168,6 +168,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **567** |  Permutation in String | Medium  | https://leetcode.com/problems/permutation-in-string/ |
 | **1004** |  Max Consecutive Ones III | Medium  | https://leetcode.com/problems/max-consecutive-ones-iii/ |
 | **2730** |  Find the Longest Semi-Repetitive Substring | Medium  | https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/ |
+| 3208 |  Alternating Groups II | Medium  | https://leetcode.com/problems/alternating-groups-ii/ |
 | **3255** |  Find the Power of K-Size Subarrays II | Medium  | https://leetcode.com/problems/find-the-power-of-k-size-subarrays-ii/ |
 | **76** |  Minimum Window Substring | Hard  | https://leetcode.com/problems/minimum-window-substring/ |
 
