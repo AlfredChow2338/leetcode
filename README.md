@@ -14,10 +14,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 200 questions beofre 2025-06-30
 - [ ] Complete 350 questions beofre 2025-12-31 
 
-## Completed Questions (Total: 145)
+## Completed Questions (Total: 146)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 44 |
+| Easy  | 45 |
 | Medium  | 93 |
 | Hard  | 8 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
@@ -46,10 +46,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **1718** | Construct the Lexicographically Largest Valid Sequence  | Medium  | https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/ |
 | **1980** | Find Unique Binary String  | Medium  | https://leetcode.com/problems/find-unique-binary-string/ |
 
-### Binary Search (Completed: 6)
+### Binary Search (Completed: 7)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 704 |  Binary Search | Easy  | https://leetcode.com/problems/binary-search/ |
+| 2529 |  Maximum Count of Positive Integer and Negative Integer | Easy  | https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/ |
 | 74 |  Search a 2D Matrix | Medium  | https://leetcode.com/problems/search-a-2d-matrix/ |
 | 153 |  Find Minimum in Rotated Sorted Array | Medium  | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ |
 | **875** |  Koko Eating Bananas | Medium  | https://leetcode.com/problems/koko-eating-bananas/ |
