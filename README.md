@@ -14,11 +14,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 200 questions beofre 2025-06-30
 - [ ] Complete 350 questions beofre 2025-12-31 
 
-## Completed Questions (Total: 148)
+## Completed Questions (Total: 149)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 45 |
-| Medium  | 95 |
+| Medium  | 96 |
 | Hard  | 8 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
@@ -46,7 +46,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **1718** | Construct the Lexicographically Largest Valid Sequence  | Medium  | https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/ |
 | **1980** | Find Unique Binary String  | Medium  | https://leetcode.com/problems/find-unique-binary-string/ |
 
-### Binary Search (Completed: 8)
+### Binary Search (Completed: 9)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 704 |  Binary Search | Easy  | https://leetcode.com/problems/binary-search/ |
@@ -56,6 +56,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **875** |  Koko Eating Bananas | Medium  | https://leetcode.com/problems/koko-eating-bananas/ |
 | **981** |  Time Based Key-Value Store | Medium  | https://leetcode.com/problems/time-based-key-value-store/ |
 | **2226** |  Maximum Candies Allocated to K Children | Medium  | https://leetcode.com/problems/maximum-candies-allocated-to-k-children/ |
+| **2560** |  House Robber IV | Medium  | https://leetcode.com/problems/house-robber-iv/ |
 | **3356** |  Zero Array Transformation II | Medium  | https://leetcode.com/problems/zero-array-transformation-ii/ |
 | **4** | Median of Two Sorted Arrays  | Hard  | https://leetcode.com/problems/median-of-two-sorted-arrays/ |
 
