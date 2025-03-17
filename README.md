@@ -14,10 +14,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 200 questions beofre 2025-06-30
 - [ ] Complete 350 questions beofre 2025-12-31 
 
-## Completed Questions (Total: 150)
+## Completed Questions (Total: 151)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 45 |
+| Easy  | 46 |
 | Medium  | 97 |
 | Hard  | 8 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
@@ -100,7 +100,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **3439** |  Reschedule Meetings for Maximum Free Time I | Medium  | https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/ |
 | **3440** |  Reschedule Meetings for Maximum Free Time II | Medium  | https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/ |
 
-### Hash Map and Hash Set (Completed: 12)
+### Hash Map and Hash Set (Completed: 13)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 1 | Two Sum  | Easy  | https://leetcode.com/problems/two-sum/ |
@@ -108,6 +108,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 217 | Contains Duplicate  | Easy  | https://leetcode.com/problems/contains-duplicate/ |
 | 219 |  Contains Duplicate II | Easy  | https://leetcode.com/problems/contains-duplicate-ii/ |
 | 242 | Valid Anagram  | Easy  | https://leetcode.com/problems/valid-anagram/ |
+| 2206 | Divide Array Into Equal Pairs  | Easy  | https://leetcode.com/problems/divide-array-into-equal-pairs/ |
 | **36** | Valid Sudoku  | Medium  | https://leetcode.com/problems/valid-sudoku/ |
 | 49 | Group Anagrams  | Medium  | https://leetcode.com/problems/group-anagrams/ |
 | 128 |  Longest Consecutive Sequence  | Medium  | https://leetcode.com/problems/longest-consecutive-sequence/ |
