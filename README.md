@@ -14,11 +14,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 200 questions beofre 2025-06-30
 - [ ] Complete 350 questions beofre 2025-12-31 
 
-## Completed Questions (Total: 151)
+## Completed Questions (Total: 152)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 46 |
-| Medium  | 97 |
+| Medium  | 98 |
 | Hard  | 8 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
@@ -60,6 +60,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 2594 |  Minimum Time to Repair Cars | Medium  | https://leetcode.com/problems/minimum-time-to-repair-cars/ |
 | **3356** |  Zero Array Transformation II | Medium  | https://leetcode.com/problems/zero-array-transformation-ii/ |
 | **4** | Median of Two Sorted Arrays  | Hard  | https://leetcode.com/problems/median-of-two-sorted-arrays/ |
+
+### Bit Manipulation (Completed: 1)
+| No.  | Question  | Level  | Url  |
+|:------------:|:---------------|:---------------:|:------------|
+| 2401 |  Longest Nice Subarray | Medium  | https://leetcode.com/problems/longest-nice-subarray/ |
 
 ### Concurrency (Completed: 1)
 | No.  | Question  | Level  | Url  |
