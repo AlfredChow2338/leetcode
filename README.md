@@ -19,7 +19,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 46 |
-| Medium  | 98 |
+| Medium  | 99 |
 | Hard  | 8 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
@@ -65,7 +65,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 ### Bit Manipulation (Completed: 1)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
-| 2401 |  Longest Nice Subarray | Medium  | https://leetcode.com/problems/longest-nice-subarray/ |
+| **2401** |  Longest Nice Subarray | Medium  | https://leetcode.com/problems/longest-nice-subarray/ |
 
 ### Concurrency (Completed: 1)
 | No.  | Question  | Level  | Url  |
@@ -170,7 +170,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **1352** | Product of the Last K Numbers  | Medium  | https://leetcode.com/problems/product-of-the-last-k-numbers/ |
 | **1524** | Number of Sub-arrays With Odd Sum  | Medium  | https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/ |
 
-### Sliding Window (Completed: 12)
+### Sliding Window (Completed: 13)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | **121** |  Best Time to Buy and Sell Stock | Easy  | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ |
@@ -181,6 +181,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **1004** |  Max Consecutive Ones III | Medium  | https://leetcode.com/problems/max-consecutive-ones-iii/ |
 | 1358 |  Number of Substrings Containing All Three Characters | Medium  | https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/ |
 | **2730** |  Find the Longest Semi-Repetitive Substring | Medium  | https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/ |
+| 3191 |  Minimum Operations to Make Binary Array Elements Equal to One I | Medium  | https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/ |
 | 3208 |  Alternating Groups II | Medium  | https://leetcode.com/problems/alternating-groups-ii/ |
 | **3255** |  Find the Power of K-Size Subarrays II | Medium  | https://leetcode.com/problems/find-the-power-of-k-size-subarrays-ii/ |
 | **3306** |  Count of Substrings Containing Every Vowel and K Consonants II | Medium  | https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/ |
