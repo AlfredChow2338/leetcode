@@ -15,12 +15,12 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 350 questions beofre 2025-12-31 
 
 
-## Completed Questions (Total: 152)
+## Completed Questions (Total: 153)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 46 |
 | Medium  | 99 |
-| Hard  | 8 |
+| Hard  | 9 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
 ### Array (Completed: 5)
@@ -249,6 +249,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **167** |  Two Sum II - Input Array Is Sorted  | Medium  | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ |
 | 2161 |  Partition Array According to Given Pivot  | Medium  | https://leetcode.com/problems/partition-array-according-to-given-pivot/ |
 | **42** |  Trapping Rain Water  | Hard  | https://leetcode.com/problems/trapping-rain-water/ |
+
+### Union Find (Completed: 1)
+| No.  | Question  | Level  | Url  |
+|:------------:|:---------------|:---------------:|:------------|
+| 3108 |  Minimum Cost Walk in Weighted Graph  | Hard  | https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/ |
 
 ### LeetCode Weekly (Completed: 11)
 | No. | Week (Date)  | Question  | Level  | Url  |
