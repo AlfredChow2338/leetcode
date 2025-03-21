@@ -15,11 +15,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 350 questions beofre 2025-12-31 
 
 
-## Completed Questions (Total: 153)
+## Completed Questions (Total: 154)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 46 |
-| Medium  | 99 |
+| Medium  | 100 |
 | Hard  | 9 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
@@ -91,6 +91,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **678** |  Valid Parenthesis String | Medium  | https://leetcode.com/problems/valid-parenthesis-string/ |
 | **873** |  Length of Longest Fibonacci Subsequence | Medium  | https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/ |
 | **1092** |  Shortest Common Supersequence  | Hard  | https://leetcode.com/problems/shortest-common-supersequence/ |
+
+### Graph (Completed: 1)
+| No.  | Question  | Level  | Url  |
+|:------------:|:---------------|:---------------:|:------------|
+| 2115 |  Find All Possible Recipes from Given Supplies | Medium  | https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/ |
 
 ### Greedy (Completed: 10)
 | No.  | Question  | Level  | Url  |

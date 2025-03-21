@@ -21,4 +21,3 @@ class Solution:
       return backtrack(i+1, curr)
     return backtrack(0, 0)
   
-        
