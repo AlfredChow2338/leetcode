@@ -15,22 +15,23 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 350 questions beofre 2025-12-31 
 
 
-## Completed Questions (Total: 155)
+## Completed Questions (Total: 157)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 46 |
-| Medium  | 101 |
+| Medium  | 102 |
 | Hard  | 9 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
-### Array (Completed: 5)
+### Array (Completed: 6)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 26 |  Remove Duplicates from Sorted Array | Easy  | https://leetcode.com/problems/remove-duplicates-from-sorted-array/ |
 | 485 | Max Consecutive Ones  | Easy  | https://leetcode.com/problems/max-consecutive-ones/ |
 | 2717 | Semi-Ordered Permutation  | Easy  | https://leetcode.com/problems/semi-ordered-permutation/ |
 | 2965 | Find Missing and Repeated Values  | Easy  | https://leetcode.com/problems/find-missing-and-repeated-values/ |
-| 659 |  Encode and Decode Strings  | Medium  | https://www.lintcode.com/problem/659 |
+| 659 |  Encode and Decode Strings  | Medium  | https://www.lintcode.com/problem/659/ |
+| 3169 |  Count Days Without Meetings  | Medium  | https://www.lintcode.com/problem/count-days-without-meetings/ |
 
 ### Backtracking (Completed: 11)
 | No.  | Question  | Level  | Url  |
