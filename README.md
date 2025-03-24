@@ -93,9 +93,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **873** |  Length of Longest Fibonacci Subsequence | Medium  | https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/ |
 | **1092** |  Shortest Common Supersequence  | Hard  | https://leetcode.com/problems/shortest-common-supersequence/ |
 
-### Graph (Completed: 2)
+### Graph (Completed: 3)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
+| **1976** |  Number of Ways to Arrive at Destination | Medium  | https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/ |
 | 2115 |  Find All Possible Recipes from Given Supplies | Medium  | https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/ |
 | 2685 |  Count the Number of Complete Components | Medium  | https://leetcode.com/problems/count-the-number-of-complete-components/ |
 
