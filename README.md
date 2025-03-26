@@ -15,15 +15,15 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 350 questions beofre 2025-12-31 
 
 
-## Completed Questions (Total: 158)
+## Completed Questions (Total: 159)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 46 |
-| Medium  | 103 |
+| Easy  | 48 |
+| Medium  | 105 |
 | Hard  | 9 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
-### Array (Completed: 7)
+### Array (Completed: 4 + 2 + 0 + 1 = 7)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 26 |  Remove Duplicates from Sorted Array | Easy  | https://leetcode.com/problems/remove-duplicates-from-sorted-array/ |
@@ -31,10 +31,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 2717 | Semi-Ordered Permutation  | Easy  | https://leetcode.com/problems/semi-ordered-permutation/ |
 | 2965 | Find Missing and Repeated Values  | Easy  | https://leetcode.com/problems/find-missing-and-repeated-values/ |
 | 659 |  Encode and Decode Strings  | Medium  | https://www.lintcode.com/problem/659/ |
-| 3169 |  Count Days Without Meetings  | Medium  | https://www.lintcode.com/problem/count-days-without-meetings/ |
-| 3394 |  Check if Grid can be Cut into Sections  | Medium  | https://www.lintcode.com/problem/check-if-grid-can-be-cut-into-sections/ |
+| 3169 |  Count Days Without Meetings  | Medium  | https://www.leetcode.com/problem/count-days-without-meetings/ |
+| 3394 |  Check if Grid can be Cut into Sections  | Medium  | https://www.leetcode.com/problem/check-if-grid-can-be-cut-into-sections/ |
 
-### Backtracking (Completed: 11)
+### Backtracking (Completed: 0 + 11 + 0 = 11)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 17 | Letter Combinations of a Phone Number  | Medium  | https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/ |
@@ -49,7 +49,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **1718** | Construct the Lexicographically Largest Valid Sequence  | Medium  | https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/ |
 | **1980** | Find Unique Binary String  | Medium  | https://leetcode.com/problems/find-unique-binary-string/ |
 
-### Binary Search (Completed: 10)
+### Binary Search (Completed: 2 + 8 + 1 = 11)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 704 |  Binary Search | Easy  | https://leetcode.com/problems/binary-search/ |
@@ -64,27 +64,27 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **3356** |  Zero Array Transformation II | Medium  | https://leetcode.com/problems/zero-array-transformation-ii/ |
 | **4** | Median of Two Sorted Arrays  | Hard  | https://leetcode.com/problems/median-of-two-sorted-arrays/ |
 
-### Bit Manipulation (Completed: 1)
+### Bit Manipulation (Completed: 0 + 1 + 0 = 1)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | **2401** |  Longest Nice Subarray | Medium  | https://leetcode.com/problems/longest-nice-subarray/ |
 
-### Concurrency (Completed: 1)
+### Concurrency (Completed: 1 + 0 + 0 = 1)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 1114 |  Print in Order  | Easy  | https://leetcode.com/problems/print-in-order/ |
 
-### Data Structure Implementation (Completed: 1)
+### Data Structure Implementation (Completed: 0 + 0 + 0 + 1 = 1)
 | Question  | Level  | Url  |
 |:---------------|:---------------:|:------------|
 |  Design Singly Linked List | Easy  | https://neetcode.io/problems/singlyLinkedList |
 
-### Design Pattern (Completed: 1)
+### Design Pattern (Completed: 0 + 0 + 0 + 1 = 1)
 | Question  | Level  | Url  |
 |:---------------|:---------------:|:------------|
 |  Factory Method Pattern | Easy  | https://neetcode.io/problems/factory |
 
-### Dynamic Programming (Completed: 6)
+### Dynamic Programming (Completed: 3 + 2 + 1 = 6)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 70 |  Climbing Stairs | Easy  | https://leetcode.com/problems/climbing-stairs/ |
@@ -94,14 +94,14 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **873** |  Length of Longest Fibonacci Subsequence | Medium  | https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/ |
 | **1092** |  Shortest Common Supersequence  | Hard  | https://leetcode.com/problems/shortest-common-supersequence/ |
 
-### Graph (Completed: 3)
+### Graph (Completed: 0 + 3 + 0 = 3)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | **1976** |  Number of Ways to Arrive at Destination | Medium  | https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/ |
 | 2115 |  Find All Possible Recipes from Given Supplies | Medium  | https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/ |
 | 2685 |  Count the Number of Complete Components | Medium  | https://leetcode.com/problems/count-the-number-of-complete-components/ |
 
-### Greedy (Completed: 10)
+### Greedy (Completed: 0 + 10 + 0 = 10)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 45 |  Jump Game II | Medium  | https://leetcode.com/problems/jump-game-ii/ |
@@ -115,7 +115,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **3439** |  Reschedule Meetings for Maximum Free Time I | Medium  | https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/ |
 | **3440** |  Reschedule Meetings for Maximum Free Time II | Medium  | https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/ |
 
-### Hash Map and Hash Set (Completed: 13)
+### Hash Map and Hash Set (Completed: 6 + 7 + 0 = 13)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 1 | Two Sum  | Easy  | https://leetcode.com/problems/two-sum/ |
@@ -132,7 +132,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 1899 | Merge Triplets to Form Target Triplet  | Medium  | https://leetcode.com/problems/merge-triplets-to-form-target-triplet/ |
 | 2711 | Difference of Number of Distinct Values on Diagonals  | Medium  | https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/ |
 
-### Heap and Priority Queue (Completed: 7)
+### Heap and Priority Queue (Completed: 3 + 4 + 0 = 7)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 703 |  Kth Largest Element in a Stream | Easy  | https://leetcode.com/problems/kth-largest-element-in-a-stream/ |
@@ -143,14 +143,14 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **621** |  Task Scheduler | Medium  | https://leetcode.com/problems/task-scheduler/ |
 | 973 |  K Closest Points to Origin | Medium  | https://leetcode.com/problems/k-closest-points-to-origin/ |
 
-### Kadane Algorithm (Completed: 3)
+### Kadane Algorithm (Completed: 0 + 3 + 0 = 3)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 53 |  Maximum Subarray | Medium  | https://leetcode.com/problems/maximum-subarray/ |
 | 918 |  Maximum Sum Circular Subarray | Medium  | https://leetcode.com/problems/maximum-sum-circular-subarray/ |
 | 978 |  Longest Turbulent Subarray  | Medium  | https://leetcode.com/problems/longest-turbulent-subarray/ |
 
-### Linked List (Completed: 9)
+### Linked List (Completed: 3 + 6 + 0 = 9)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 21 | Merge Two Sorted Lists  | Easy  | https://leetcode.com/problems/merge-two-sorted-lists/ |
@@ -163,13 +163,13 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 146 | LRU Cache  | Medium  | https://leetcode.com/problems/lru-cache/ |
 | 287 | Find the Duplicate Number  | Medium  | https://leetcode.com/problems/find-the-duplicate-number/ |
 
-### Math (Completed: 2)
+### Math (Completed: 0 + 2 + 0 = 2)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 2523 | Closest Prime Numbers in Range  | Medium  | https://leetcode.com/problems/closest-prime-numbers-in-range/ |
 | 2579 | Count Total Number of Colored Cells  | Medium  | https://leetcode.com/problems/count-total-number-of-colored-cells/ |
 
-### Prefix Sum (Completed: 6)
+### Prefix Sum (Completed: 1 + 5 + 0 = 6)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 303 | Range Sum Query - Immutable  | Easy  | https://leetcode.com/problems/range-sum-query-immutable/ |
@@ -179,7 +179,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **1352** | Product of the Last K Numbers  | Medium  | https://leetcode.com/problems/product-of-the-last-k-numbers/ |
 | **1524** | Number of Sub-arrays With Odd Sum  | Medium  | https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/ |
 
-### Sliding Window (Completed: 13)
+### Sliding Window (Completed: 2 + 10 + 1 = 13)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | **121** |  Best Time to Buy and Sell Stock | Easy  | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ |
@@ -196,7 +196,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **3306** |  Count of Substrings Containing Every Vowel and K Consonants II | Medium  | https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/ |
 | **76** |  Minimum Window Substring | Hard  | https://leetcode.com/problems/minimum-window-substring/ |
 
-### Stack (Completed: 8)
+### Stack (Completed: 1 + 6 + 1 = 8)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 20 |  Valid Parentheses | Easy  | https://leetcode.com/problems/valid-parentheses/ |
@@ -208,7 +208,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **2375** |  Construct Smallest Number From DI String | Medium  | https://leetcode.com/problems/construct-smallest-number-from-di-string/ |
 | **84** |  Largest Rectangle in Histogram | Hard  | https://leetcode.com/problems/largest-rectangle-in-histogram/ |
 
-### String (Completed: 5)
+### String (Completed: 4 + 1 + 0 = 5)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 14 | Longest Common Prefix  | Easy  | https://leetcode.com/problems/longest-common-prefix/ |
@@ -217,7 +217,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 1408 | String Matching in an Array  | Easy  | https://leetcode.com/problems/string-matching-in-an-array/ |
 | **1415** | The k-th Lexicographical String of All Happy Strings of Length n  | Medium  | https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/ |
 
-### Trees (Completed: 17)
+### Trees (Completed: 6 + 10 + 1 = 17)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 100 |  Same Tree | Easy  | https://leetcode.com/problems/same-tree/ |
@@ -238,7 +238,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 2467 |  Most Profitable Path in a Tree | Medium  | https://leetcode.com/problems/most-profitable-path-in-a-tree/ |
 | 1028 |  Recover a Tree From Preorder Traversal | Hard  | https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/ |
 
-### Trie (Completed: 4)
+### Trie (Completed: 0 + 3 + 1 = 4)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 208 |  Implement Trie (Prefix Tree) | Medium  | https://leetcode.com/problems/implement-trie-prefix-tree/ |
@@ -246,7 +246,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **2707** |  Extra Characters in a String | Medium  | https://leetcode.com/problems/extra-characters-in-a-string/ |
 | **212** |  Word Search II | Hard  | https://leetcode.com/problems/word-search-ii/ |
 
-### Two Pointers (Completed: 9)
+### Two Pointers (Completed: 4 + 4 + 1 = 9)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 125 |  Valid Palindrome  | Easy  | https://leetcode.com/problems/valid-palindrome/ |
@@ -259,12 +259,12 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 2161 |  Partition Array According to Given Pivot  | Medium  | https://leetcode.com/problems/partition-array-according-to-given-pivot/ |
 | **42** |  Trapping Rain Water  | Hard  | https://leetcode.com/problems/trapping-rain-water/ |
 
-### Union Find (Completed: 1)
+### Union Find (Completed: 0 + 0 + 1 = 1)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 3108 |  Minimum Cost Walk in Weighted Graph  | Hard  | https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/ |
 
-### LeetCode Weekly (Completed: 11)
+### LeetCode Weekly (Completed: 5 + 5 + 1 = 11)
 | No. | Week (Date)  | Question  | Level  | Url  |
 |:-----:|:--------------|:---------------|:------:|:------------|
 | 3258 | 411 (18th Aug 2024) | Count Substrings That Satisfy K-Constraint I  | Easy  | https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/ |
@@ -279,7 +279,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **3458** | 437 (16th Feb 2025) | Select K Disjoint Special Substrings  | Medium  | https://leetcode.com/problems/select-k-disjoint-special-substrings/ |
 | **3459** | 437 (16th Feb 2025) | Length of Longest V-Shaped Diagonal Segment  | Hard  | https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/ |
 
-### LeetCode Biweekly (Completed: 2)
+### LeetCode Biweekly (Completed: 1 + 1 + 0 = 2)
 | No. | Week (Date)  | Question  | Level  | Url  |
 |:-----:|:--------------|:---------------|:------:|:------------|
 | 3254 | 137 (17th Aug 2024) | Find the Power of K-Size Subarrays I  | Medium  | https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/ |
