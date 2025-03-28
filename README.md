@@ -15,15 +15,15 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 350 questions beofre 2025-12-31 
 
 
-## Completed Questions (Total: 159)
+## Completed Questions (Total: 160)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 48 |
-| Medium  | 105 |
+| Medium  | 106 |
 | Hard  | 9 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
-### Array (Completed: 4 + 2 + 0 + 1 = 7)
+### Array (Completed: 4 + 3 + 0 + 1 = 8)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 26 |  Remove Duplicates from Sorted Array | Easy  | https://leetcode.com/problems/remove-duplicates-from-sorted-array/ |
@@ -31,6 +31,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 2717 | Semi-Ordered Permutation  | Easy  | https://leetcode.com/problems/semi-ordered-permutation/ |
 | 2965 | Find Missing and Repeated Values  | Easy  | https://leetcode.com/problems/find-missing-and-repeated-values/ |
 | 659 |  Encode and Decode Strings  | Medium  | https://www.lintcode.com/problem/659/ |
+| 2780 |  Minimum Index of a Valid Split  | Medium  | https://www.leetcode.com/problem/minimum-index-of-a-valid-split/ |
 | 3169 |  Count Days Without Meetings  | Medium  | https://www.leetcode.com/problem/count-days-without-meetings/ |
 | 3394 |  Check if Grid can be Cut into Sections  | Medium  | https://www.leetcode.com/problem/check-if-grid-can-be-cut-into-sections/ |
 
