@@ -15,15 +15,15 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 350 questions beofre 2025-12-31 
 
 
-## Completed Questions (Total: 160)
+## Completed Questions (Total: 161)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 48 |
 | Medium  | 106 |
-| Hard  | 9 |
+| Hard  | 10 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
-### Array (Completed: 4 + 3 + 0 + 1 = 8)
+### Array (Completed: 4 + 3 + 1 + 1 = 9)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 26 |  Remove Duplicates from Sorted Array | Easy  | https://leetcode.com/problems/remove-duplicates-from-sorted-array/ |
@@ -34,6 +34,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 2780 |  Minimum Index of a Valid Split  | Medium  | https://www.leetcode.com/problem/minimum-index-of-a-valid-split/ |
 | 3169 |  Count Days Without Meetings  | Medium  | https://www.leetcode.com/problem/count-days-without-meetings/ |
 | 3394 |  Check if Grid can be Cut into Sections  | Medium  | https://www.leetcode.com/problem/check-if-grid-can-be-cut-into-sections/ |
+| 2503 |  Maximum Number of Points From Grid Queries  | Hard  | https://www.leetcode.com/problem/maximum-number-of-points-from-grid-queries/ |
 
 ### Backtracking (Completed: 0 + 11 + 0 = 11)
 | No.  | Question  | Level  | Url  |
