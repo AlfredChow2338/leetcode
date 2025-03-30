@@ -15,11 +15,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 350 questions beofre 2025-12-31 
 
 
-## Completed Questions (Total: 162)
+## Completed Questions (Total: 163)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 49 |
-| Medium  | 106 |
+| Medium  | 107 |
 | Hard  | 10 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
@@ -266,7 +266,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 |:------------:|:---------------|:---------------:|:------------|
 | 3108 |  Minimum Cost Walk in Weighted Graph  | Hard  | https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/ |
 
-### LeetCode Weekly (Completed: 1 + 5 + 1 = 12)
+### LeetCode Weekly (Completed: 6 + 6 + 1 = 13)
 | No. | Week (Date)  | Question  | Level  | Url  |
 |:-----:|:--------------|:---------------|:------:|:------------|
 | 3258 | 411 (18th Aug 2024) | Count Substrings That Satisfy K-Constraint I  | Easy  | https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/ |
@@ -281,6 +281,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **3458** | 437 (16th Feb 2025) | Select K Disjoint Special Substrings  | Medium  | https://leetcode.com/problems/select-k-disjoint-special-substrings/ |
 | **3459** | 437 (16th Feb 2025) | Length of Longest V-Shaped Diagonal Segment  | Hard  | https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/ |
 | 3502 | 443 (30th Mar 2025) | Minimum Cost to Reach Every Position  | Easy  | https://leetcode.com/problems/minimum-cost-to-reach-every-position/ |
+| 3503 | 443 (30th Mar 2025) | Longest Palindrome After Substring Concatenation I  | Medium  | https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-i/ |
 
 ### LeetCode Biweekly (Completed: 1 + 1 + 0 = 2)
 | No. | Week (Date)  | Question  | Level  | Url  |
