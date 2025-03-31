@@ -15,12 +15,12 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 350 questions beofre 2025-12-31 
 
 
-## Completed Questions (Total: 163)
+## Completed Questions (Total: 164)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 49 |
 | Medium  | 107 |
-| Hard  | 10 |
+| Hard  | 11 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
 ### Array (Completed: 4 + 3 + 1 + 1 = 9)
@@ -30,11 +30,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 485 | Max Consecutive Ones  | Easy  | https://leetcode.com/problems/max-consecutive-ones/ |
 | 2717 | Semi-Ordered Permutation  | Easy  | https://leetcode.com/problems/semi-ordered-permutation/ |
 | 2965 | Find Missing and Repeated Values  | Easy  | https://leetcode.com/problems/find-missing-and-repeated-values/ |
-| 659 |  Encode and Decode Strings  | Medium  | https://www.lintcode.com/problem/659/ |
 | 2780 |  Minimum Index of a Valid Split  | Medium  | https://www.leetcode.com/problem/minimum-index-of-a-valid-split/ |
 | 3169 |  Count Days Without Meetings  | Medium  | https://www.leetcode.com/problem/count-days-without-meetings/ |
 | 3394 |  Check if Grid can be Cut into Sections  | Medium  | https://www.leetcode.com/problem/check-if-grid-can-be-cut-into-sections/ |
 | 2503 |  Maximum Number of Points From Grid Queries  | Hard  | https://www.leetcode.com/problem/maximum-number-of-points-from-grid-queries/ |
+| 659 |  Encode and Decode Strings  | Others  | https://www.lintcode.com/problem/659/ |
 
 ### Backtracking (Completed: 0 + 11 + 0 = 11)
 | No.  | Question  | Level  | Url  |
@@ -79,12 +79,12 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 ### Data Structure Implementation (Completed: 0 + 0 + 0 + 1 = 1)
 | Question  | Level  | Url  |
 |:---------------|:---------------:|:------------|
-|  Design Singly Linked List | Easy  | https://neetcode.io/problems/singlyLinkedList |
+|  Design Singly Linked List | Others  | https://neetcode.io/problems/singlyLinkedList |
 
 ### Design Pattern (Completed: 0 + 0 + 0 + 1 = 1)
 | Question  | Level  | Url  |
 |:---------------|:---------------:|:------------|
-|  Factory Method Pattern | Easy  | https://neetcode.io/problems/factory |
+|  Factory Method Pattern | Others  | https://neetcode.io/problems/factory |
 
 ### Dynamic Programming (Completed: 3 + 2 + 1 = 6)
 | No.  | Question  | Level  | Url  |
@@ -103,7 +103,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 2115 |  Find All Possible Recipes from Given Supplies | Medium  | https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/ |
 | 2685 |  Count the Number of Complete Components | Medium  | https://leetcode.com/problems/count-the-number-of-complete-components/ |
 
-### Greedy (Completed: 0 + 10 + 0 = 10)
+### Greedy (Completed: 0 + 10 + 1 = 11)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 45 |  Jump Game II | Medium  | https://leetcode.com/problems/jump-game-ii/ |
@@ -116,6 +116,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 2740 |  Find the Value of the Partition | Medium  | https://leetcode.com/problems/find-the-value-of-the-partition/ |
 | **3439** |  Reschedule Meetings for Maximum Free Time I | Medium  | https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/ |
 | **3440** |  Reschedule Meetings for Maximum Free Time II | Medium  | https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/ |
+| **2551** |  Put Marbles in Bags | Hard  | https://leetcode.com/problems/put-marbles-in-bags/ |
 
 ### Hash Map and Hash Set (Completed: 6 + 7 + 0 = 13)
 | No.  | Question  | Level  | Url  |
