@@ -18,8 +18,8 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 ## Completed Questions (Total: 164)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 49 |
-| Medium  | 107 |
+| Easy  | 47 |
+| Medium  | 106 |
 | Hard  | 11 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
