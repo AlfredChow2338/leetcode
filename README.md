@@ -15,11 +15,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 350 questions beofre 2025-12-31 
 
 
-## Completed Questions (Total: 164)
+## Completed Questions (Total: 165)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 47 |
-| Medium  | 106 |
+| Medium  | 107 |
 | Hard  | 11 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
@@ -86,7 +86,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 |:---------------|:---------------:|:------------|
 |  Factory Method Pattern | Others  | https://neetcode.io/problems/factory |
 
-### Dynamic Programming (Completed: 3 + 2 + 1 = 6)
+### Dynamic Programming (Completed: 3 + 3 + 1 = 7)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 70 |  Climbing Stairs | Easy  | https://leetcode.com/problems/climbing-stairs/ |
@@ -94,6 +94,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 746 |  Min Cost Climbing Stairs | Easy  | https://leetcode.com/problems/min-cost-climbing-stairs/ |
 | **678** |  Valid Parenthesis String | Medium  | https://leetcode.com/problems/valid-parenthesis-string/ |
 | **873** |  Length of Longest Fibonacci Subsequence | Medium  | https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/ |
+| 2140 |  Solving Questions With Brainpower | Medium  | https://leetcode.com/problems/solving-questions-with-brainpower/ |
 | **1092** |  Shortest Common Supersequence  | Hard  | https://leetcode.com/problems/shortest-common-supersequence/ |
 
 ### Graph (Completed: 0 + 3 + 0 = 3)
