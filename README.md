@@ -15,10 +15,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 350 questions beofre 2025-12-31 
 
 
-## Completed Questions (Total: 165)
+## Completed Questions (Total: 166)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 47 |
+| Easy  | 48 |
 | Medium  | 107 |
 | Hard  | 11 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
@@ -104,9 +104,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 2115 |  Find All Possible Recipes from Given Supplies | Medium  | https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/ |
 | 2685 |  Count the Number of Complete Components | Medium  | https://leetcode.com/problems/count-the-number-of-complete-components/ |
 
-### Greedy (Completed: 0 + 10 + 1 = 11)
+### Greedy (Completed: 1 + 10 + 1 = 12)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
+| 2873 |  Maximum Value of an Ordered Triplet I | Easy  | https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/ |
 | 45 |  Jump Game II | Medium  | https://leetcode.com/problems/jump-game-ii/ |
 | 55 |  Jump Game | Medium  | https://leetcode.com/problems/jump-game/ |
 | 134 |  Gas Station | Medium  | https://leetcode.com/problems/gas-station/ |
