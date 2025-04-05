@@ -15,10 +15,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 350 questions beofre 2025-12-31 
 
 
-## Completed Questions (Total: 169)
+## Completed Questions (Total: 170)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 48 |
+| Easy  | 49 |
 | Medium  | 110 |
 | Hard  | 11 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
@@ -36,10 +36,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 2503 |  Maximum Number of Points From Grid Queries  | Hard  | https://www.leetcode.com/problem/maximum-number-of-points-from-grid-queries/ |
 | 659 |  Encode and Decode Strings  | Others  | https://www.lintcode.com/problem/659/ |
 
-### Backtracking (Completed: 0 + 11 + 0 = 11)
+### Backtracking (Completed: 1 + 11 + 0 = 12)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
-| 17 | Letter Combinations of a Phone Number  | Medium  | https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/ |
+| 1863 | Sum of All Subset XOR Totals  | Easy  | https://leetcode.com/problems/sum-of-all-subset-xor-totals/ |
+| 17 | Letter Combinations of a Phone Number  | Medium  | https://leetcode.com/problems/letter-combinations-of-a-phone-number/ |
 | 39 | Combination Sum  | Medium  | https://leetcode.com/problems/combination-sum/ |
 | **40** | Combination Sum II  | Medium  | https://leetcode.com/problems/combination-sum-ii/ |
 | **46** | Permutations  | Medium  | https://leetcode.com/problems/permutations/ |
