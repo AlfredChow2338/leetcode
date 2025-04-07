@@ -15,11 +15,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 350 questions beofre 2025-12-31 
 
 
-## Completed Questions (Total: 171)
+## Completed Questions (Total: 172)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 49 |
-| Medium  | 111 |
+| Medium  | 112 |
 | Hard  | 11 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
@@ -87,13 +87,14 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 |:---------------|:---------------:|:------------|
 |  Factory Method Pattern | Others  | https://neetcode.io/problems/factory |
 
-### Dynamic Programming (Completed: 3 + 4 + 1 = 8)
+### Dynamic Programming (Completed: 3 + 5 + 1 = 9)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 70 |  Climbing Stairs | Easy  | https://leetcode.com/problems/climbing-stairs/ |
 | 509 |  Fibonacci Number | Easy  | https://leetcode.com/problems/fibonacci-number/ |
 | 746 |  Min Cost Climbing Stairs | Easy  | https://leetcode.com/problems/min-cost-climbing-stairs/ |
 | **368** |  Largest Divisible Subset | Medium  | https://leetcode.com/problems/largest-divisible-subset/ |
+| **416** |  Partition Equal Subset Sum | Medium  | https://leetcode.com/problems/partition-equal-subset-sum/ |
 | **678** |  Valid Parenthesis String | Medium  | https://leetcode.com/problems/valid-parenthesis-string/ |
 | **873** |  Length of Longest Fibonacci Subsequence | Medium  | https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/ |
 | 2140 |  Solving Questions With Brainpower | Medium  | https://leetcode.com/problems/solving-questions-with-brainpower/ |
