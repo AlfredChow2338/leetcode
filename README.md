@@ -15,10 +15,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 350 questions beofre 2025-12-31 
 
 
-## Completed Questions (Total: 173)
+## Completed Questions (Total: 174)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 50 |
+| Easy  | 51 |
 | Medium  | 112 |
 | Hard  | 11 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
@@ -125,7 +125,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **3440** |  Reschedule Meetings for Maximum Free Time II | Medium  | https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/ |
 | **2551** |  Put Marbles in Bags | Hard  | https://leetcode.com/problems/put-marbles-in-bags/ |
 
-### Hash Map and Hash Set (Completed: 6 + 7 + 0 = 13)
+### Hash Map and Hash Set (Completed: 7 + 7 + 0 = 13)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 1 | Two Sum  | Easy  | https://leetcode.com/problems/two-sum/ |
@@ -134,6 +134,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 219 |  Contains Duplicate II | Easy  | https://leetcode.com/problems/contains-duplicate-ii/ |
 | 242 | Valid Anagram  | Easy  | https://leetcode.com/problems/valid-anagram/ |
 | 2206 | Divide Array Into Equal Pairs  | Easy  | https://leetcode.com/problems/divide-array-into-equal-pairs/ |
+| 3375 | Minimum Operations to Make Array Values Equal to K  | Easy  | https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/ |
 | **36** | Valid Sudoku  | Medium  | https://leetcode.com/problems/valid-sudoku/ |
 | 49 | Group Anagrams  | Medium  | https://leetcode.com/problems/group-anagrams/ |
 | 128 |  Longest Consecutive Sequence  | Medium  | https://leetcode.com/problems/longest-consecutive-sequence/ |
