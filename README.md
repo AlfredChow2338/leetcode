@@ -15,12 +15,12 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 350 questions beofre 2025-12-31 
 
 
-## Completed Questions (Total: 174)
+## Completed Questions (Total: 175)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 51 |
 | Medium  | 112 |
-| Hard  | 11 |
+| Hard  | 12 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
 ### Array (Completed: 5 + 3 + 1 + 1 = 10)
@@ -88,7 +88,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 |:---------------|:---------------:|:------------|
 |  Factory Method Pattern | Others  | https://neetcode.io/problems/factory |
 
-### Dynamic Programming (Completed: 3 + 5 + 1 = 9)
+### Dynamic Programming (Completed: 3 + 5 + 2 = 10)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 70 |  Climbing Stairs | Easy  | https://leetcode.com/problems/climbing-stairs/ |
@@ -100,6 +100,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **873** |  Length of Longest Fibonacci Subsequence | Medium  | https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/ |
 | 2140 |  Solving Questions With Brainpower | Medium  | https://leetcode.com/problems/solving-questions-with-brainpower/ |
 | **1092** |  Shortest Common Supersequence  | Hard  | https://leetcode.com/problems/shortest-common-supersequence/ |
+| **2999** |  Count the Number of Powerful Integers  | Hard  | https://leetcode.com/problems/count-the-number-of-powerful-integers/ |
 
 ### Graph (Completed: 0 + 3 + 0 = 3)
 | No.  | Question  | Level  | Url  |
