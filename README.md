@@ -15,19 +15,20 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 350 questions beofre 2025-12-31 
 
 
-## Completed Questions (Total: 177)
+## Completed Questions (Total: 178)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 52 |
+| Easy  | 53 |
 | Medium  | 113 |
 | Hard  | 12 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
-### Array (Completed: 5 + 3 + 1 + 1 = 10)
+### Array (Completed: 6 + 3 + 1 + 1 = 11)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 26 |  Remove Duplicates from Sorted Array | Easy  | https://leetcode.com/problems/remove-duplicates-from-sorted-array/ |
 | 485 | Max Consecutive Ones  | Easy  | https://leetcode.com/problems/max-consecutive-ones/ |
+| 1534 | Count Good Triplets  | Easy  | https://leetcode.com/problems/count-good-triplets/ |
 | 2717 | Semi-Ordered Permutation  | Easy  | https://leetcode.com/problems/semi-ordered-permutation/ |
 | 2965 | Find Missing and Repeated Values  | Easy  | https://leetcode.com/problems/find-missing-and-repeated-values/ |
 | 3396 | Minimum Number of Operations to Make Elements in Array Distinct  | Easy  | https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/ |
