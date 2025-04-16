@@ -15,12 +15,12 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 350 questions beofre 2025-12-31 
 
 
-## Completed Questions (Total: 178)
+## Completed Questions (Total: 179)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 53 |
 | Medium  | 113 |
-| Hard  | 12 |
+| Hard  | 13 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
 ### Array (Completed: 6 + 3 + 1 + 1 = 11)
@@ -54,7 +54,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **1718** | Construct the Lexicographically Largest Valid Sequence  | Medium  | https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/ |
 | **1980** | Find Unique Binary String  | Medium  | https://leetcode.com/problems/find-unique-binary-string/ |
 
-### Binary Search (Completed: 2 + 8 + 1 = 11)
+### Binary Search (Completed: 2 + 8 + 2 = 12)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 704 |  Binary Search | Easy  | https://leetcode.com/problems/binary-search/ |
@@ -68,6 +68,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 2594 |  Minimum Time to Repair Cars | Medium  | https://leetcode.com/problems/minimum-time-to-repair-cars/ |
 | **3356** |  Zero Array Transformation II | Medium  | https://leetcode.com/problems/zero-array-transformation-ii/ |
 | **4** | Median of Two Sorted Arrays  | Hard  | https://leetcode.com/problems/median-of-two-sorted-arrays/ |
+| **2179** | Count Good Triplets in an Array  | Hard  | https://leetcode.com/problems/count-good-triplets-in-an-array/ |
 
 ### Bit Manipulation (Completed: 0 + 1 + 0 = 1)
 | No.  | Question  | Level  | Url  |
