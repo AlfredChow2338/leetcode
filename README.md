@@ -15,11 +15,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 350 questions beofre 2025-12-31 
 
 
-## Completed Questions (Total: 180)
+## Completed Questions (Total: 181)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 53 |
-| Medium  | 114 |
+| Medium  | 115 |
 | Hard  | 13 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
@@ -54,7 +54,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **1718** | Construct the Lexicographically Largest Valid Sequence  | Medium  | https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/ |
 | **1980** | Find Unique Binary String  | Medium  | https://leetcode.com/problems/find-unique-binary-string/ |
 
-### Binary Search (Completed: 2 + 8 + 2 = 12)
+### Binary Search (Completed: 2 + 9 + 2 = 13)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 704 |  Binary Search | Easy  | https://leetcode.com/problems/binary-search/ |
@@ -65,6 +65,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **981** |  Time Based Key-Value Store | Medium  | https://leetcode.com/problems/time-based-key-value-store/ |
 | **2226** |  Maximum Candies Allocated to K Children | Medium  | https://leetcode.com/problems/maximum-candies-allocated-to-k-children/ |
 | **2560** |  House Robber IV | Medium  | https://leetcode.com/problems/house-robber-iv/ |
+| 2563 |  Count the Number of Fair Pairs | Medium  | https://leetcode.com/problems/count-the-number-of-fair-pairs/ |
 | 2594 |  Minimum Time to Repair Cars | Medium  | https://leetcode.com/problems/minimum-time-to-repair-cars/ |
 | **3356** |  Zero Array Transformation II | Medium  | https://leetcode.com/problems/zero-array-transformation-ii/ |
 | **4** | Median of Two Sorted Arrays  | Hard  | https://leetcode.com/problems/median-of-two-sorted-arrays/ |
