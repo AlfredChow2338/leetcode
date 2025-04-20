@@ -15,11 +15,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 350 questions beofre 2025-12-31 
 
 
-## Completed Questions (Total: 181)
+## Completed Questions (Total: 182)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 53 |
-| Medium  | 115 |
+| Medium  | 116 |
 | Hard  | 13 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
@@ -129,7 +129,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **3440** |  Reschedule Meetings for Maximum Free Time II | Medium  | https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/ |
 | **2551** |  Put Marbles in Bags | Hard  | https://leetcode.com/problems/put-marbles-in-bags/ |
 
-### Hash Map and Hash Set (Completed: 7 + 7 + 0 = 13)
+### Hash Map and Hash Set (Completed: 7 + 8 + 0 = 14)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 1 | Two Sum  | Easy  | https://leetcode.com/problems/two-sum/ |
@@ -143,6 +143,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 49 | Group Anagrams  | Medium  | https://leetcode.com/problems/group-anagrams/ |
 | 128 |  Longest Consecutive Sequence  | Medium  | https://leetcode.com/problems/longest-consecutive-sequence/ |
 | 347 | Top K Frequent Elements  | Medium  | https://leetcode.com/problems/top-k-frequent-elements/ |
+| 781 | Rabbits in Forest  | Medium  | https://leetcode.com/problems/rabbits-in-forest/ |
 | 1296 | Divide Array in Sets of K Consecutive Numbers  | Medium  | https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/ |
 | 1899 | Merge Triplets to Form Target Triplet  | Medium  | https://leetcode.com/problems/merge-triplets-to-form-target-triplet/ |
 | 2711 | Difference of Number of Distinct Values on Diagonals  | Medium  | https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/ |
