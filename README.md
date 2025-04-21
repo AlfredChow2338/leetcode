@@ -15,11 +15,11 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 350 questions beofre 2025-12-31 
 
 
-## Completed Questions (Total: 182)
+## Completed Questions (Total: 183)
 | Difficulty  | Solved |
 |:------------|:---------------:|
 | Easy  | 53 |
-| Medium  | 116 |
+| Medium  | 117 |
 | Hard  | 13 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
 
@@ -188,7 +188,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 2579 | Count Total Number of Colored Cells  | Medium  | https://leetcode.com/problems/count-total-number-of-colored-cells/ |
 | **3272** | Find the Count of Good Integers  | Hard  | https://leetcode.com/problems/find-the-count-of-good-integers/ |
 
-### Prefix Sum (Completed: 1 + 5 + 0 = 6)
+### Prefix Sum (Completed: 1 + 6 + 0 = 7)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 303 | Range Sum Query - Immutable  | Easy  | https://leetcode.com/problems/range-sum-query-immutable/ |
@@ -197,6 +197,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **560** | Subarray Sum Equals K  | Medium  | https://leetcode.com/problems/subarray-sum-equals-k/ |
 | **1352** | Product of the Last K Numbers  | Medium  | https://leetcode.com/problems/product-of-the-last-k-numbers/ |
 | **1524** | Number of Sub-arrays With Odd Sum  | Medium  | https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/ |
+| **2145** | Count the Hidden Sequences  | Medium  | https://leetcode.com/problems/count-the-hidden-sequences/ |
 
 ### Sliding Window (Completed: 2 + 10 + 1 = 13)
 | No.  | Question  | Level  | Url  |
