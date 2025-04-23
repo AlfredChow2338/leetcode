@@ -15,10 +15,10 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 - [ ] Complete 350 questions beofre 2025-12-31 
 
 
-## Completed Questions (Total: 183)
+## Completed Questions (Total: 184)
 | Difficulty  | Solved |
 |:------------|:---------------:|
-| Easy  | 53 |
+| Easy  | 54 |
 | Medium  | 117 |
 | Hard  | 13 |
 | Others (Lintcode, Neetcode, etc)  | 3  |
@@ -129,7 +129,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | **3440** |  Reschedule Meetings for Maximum Free Time II | Medium  | https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/ |
 | **2551** |  Put Marbles in Bags | Hard  | https://leetcode.com/problems/put-marbles-in-bags/ |
 
-### Hash Map and Hash Set (Completed: 7 + 8 + 0 = 14)
+### Hash Map and Hash Set (Completed: 8 + 8 + 0 = 16)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 1 | Two Sum  | Easy  | https://leetcode.com/problems/two-sum/ |
@@ -137,6 +137,7 @@ Starting from 11th August 2024, I am commited to complete at least 3 questions e
 | 217 | Contains Duplicate  | Easy  | https://leetcode.com/problems/contains-duplicate/ |
 | 219 |  Contains Duplicate II | Easy  | https://leetcode.com/problems/contains-duplicate-ii/ |
 | 242 | Valid Anagram  | Easy  | https://leetcode.com/problems/valid-anagram/ |
+| 1399 | Count Largest Group  | Easy  | https://leetcode.com/problems/count-largest-group/ |
 | 2206 | Divide Array Into Equal Pairs  | Easy  | https://leetcode.com/problems/divide-array-into-equal-pairs/ |
 | 3375 | Minimum Operations to Make Array Values Equal to K  | Easy  | https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/ |
 | **36** | Valid Sudoku  | Medium  | https://leetcode.com/problems/valid-sudoku/ |
