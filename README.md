@@ -1,19 +1,5 @@
-# LeetCode Practice (Python)
-This repository is dedicated to my daily practice of solving LeetCode problems using Python. LeetCode is a popular platform for practicing coding interview questions, and this project aims to improve my problem-solving skills and keep me consistent in my coding practice. The project contains the Python scripts for each LeetCode problem I've solved.
-
-## Goals
-Starting from 11th August 2024, I am commited to complete at least 3 questions every week. The topics of the questions include array, hashing, two pointers, stack, binary search, linked list, sliding window, trees, heap, queue, priority queue, graphs, dynamic programming and etc. 
-
-### Milestones
-- [x] Complete 3 questions before 2024-08-18 (1-week)
-- [x] Complete 12 questions before 2024-09-07 (1-month)
-- [x] Complete 39 questions before 2024-11-10 (3-month)
-- [x] Complete 60 questions before 2024-12-31 (2024 year-end)
-- [x] Complete 75 questions before 2025-02-10 (half year)
-- [x] Complete 100 questions before 2025-03-01
-- [ ] Complete 200 questions beofre 2025-06-30
-- [ ] Complete 350 questions beofre 2025-12-31 
-
+# LeetCode Practice (Python & Javascript)
+This repository is dedicated to my daily practice of solving LeetCode problems using Python. LeetCode is a popular platform for practicing coding interview questions, and this project aims to improve my problem-solving skills and keep me consistent in my coding practice. The project contains the Python and JavaScript scripts for each LeetCode problem I've solved.
 
 ## Completed Questions (Total: 184)
 | Difficulty  | Solved |
