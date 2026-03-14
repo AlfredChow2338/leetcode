@@ -1,7 +1,9 @@
 ### Takeaway
 
 1. sort string in js required `s.split('').sort().join('')`
+
 2. `Map()` has many built-in functions similar to Object prototype eg. `keys()`, `values()`
+
 3. hash table can be applied (best performance, beat 95% solutions)
 ```jsx
 const count = new Array(26).fill(0);
