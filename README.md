@@ -118,18 +118,18 @@ This repository is dedicated to my daily practice of solving LeetCode problems u
 ### Hash Map and Hash Set (Completed: 8 + 8 + 0 = 16)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
-| 1 | Two Sum  | Easy  | https://leetcode.com/problems/two-sum/ |
+| 1 | Two Sum  | Easy  | [Rewritten in JS](./hash-map-and-hash-set/1-two-sum.md) |
 | 13 | Roman to Integer  | Easy  | https://leetcode.com/problems/roman-to-integer/ |
-| 217 | Contains Duplicate  | Easy  | https://leetcode.com/problems/contains-duplicate/ |
+| 217 | Contains Duplicate  | Easy  | [Rewritten in JS](./hash-map-and-hash-set/217-contains-duplicate.md) |
 | 219 |  Contains Duplicate II | Easy  | https://leetcode.com/problems/contains-duplicate-ii/ |
-| 242 | Valid Anagram  | Easy  | https://leetcode.com/problems/valid-anagram/ |
+| 242 | Valid Anagram  | Easy  | [Rewritten in JS](./hash-map-and-hash-set/242-valid-anagram.md) |
 | 1399 | Count Largest Group  | Easy  | https://leetcode.com/problems/count-largest-group/ |
 | 2206 | Divide Array Into Equal Pairs  | Easy  | https://leetcode.com/problems/divide-array-into-equal-pairs/ |
 | 3375 | Minimum Operations to Make Array Values Equal to K  | Easy  | https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/ |
 | **36** | Valid Sudoku  | Medium  | https://leetcode.com/problems/valid-sudoku/ |
-| 49 | Group Anagrams  | Medium  | https://leetcode.com/problems/group-anagrams/ |
+| 49 | Group Anagrams  | Medium  | [Rewritten in JS](./hash-map-and-hash-set/217-contains-duplicate.md) |
 | 128 |  Longest Consecutive Sequence  | Medium  | https://leetcode.com/problems/longest-consecutive-sequence/ |
-| 347 | Top K Frequent Elements  | Medium  | https://leetcode.com/problems/top-k-frequent-elements/ |
+| 347 | Top K Frequent Elements  | Medium  | [Rewritten in JS](./hash-map-and-hash-set/347-top-k-frequent-elements.md) |
 | 781 | Rabbits in Forest  | Medium  | https://leetcode.com/problems/rabbits-in-forest/ |
 | 1296 | Divide Array in Sets of K Consecutive Numbers  | Medium  | https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/ |
 | 1899 | Merge Triplets to Form Target Triplet  | Medium  | https://leetcode.com/problems/merge-triplets-to-form-target-triplet/ |
