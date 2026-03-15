@@ -179,7 +179,7 @@ This repository is dedicated to my daily practice of solving LeetCode problems u
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
 | 303 | Range Sum Query - Immutable  | Easy  | https://leetcode.com/problems/range-sum-query-immutable/ |
-| 238 | Product of Array Except Self  | Medium  | https://leetcode.com/problems/product-of-array-except-self/ |
+| 238 | Product of Array Except Self  | Medium  | [Rewritten in JS](./prefix-sum/238-product-of-array-except-self.md) |
 | **525** | Contiguous Array  | Medium  | https://leetcode.com/problems/contiguous-array/ |
 | **560** | Subarray Sum Equals K  | Medium  | https://leetcode.com/problems/subarray-sum-equals-k/ |
 | **1352** | Product of the Last K Numbers  | Medium  | https://leetcode.com/problems/product-of-the-last-k-numbers/ |
