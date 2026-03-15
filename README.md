@@ -22,7 +22,7 @@ This repository is dedicated to my daily practice of solving LeetCode problems u
 | 3169 |  Count Days Without Meetings  | Medium  | https://www.leetcode.com/problem/count-days-without-meetings/ |
 | 3394 |  Check if Grid can be Cut into Sections  | Medium  | https://www.leetcode.com/problem/check-if-grid-can-be-cut-into-sections/ |
 | 2503 |  Maximum Number of Points From Grid Queries  | Hard  | https://www.leetcode.com/problem/maximum-number-of-points-from-grid-queries/ |
-| 659 |  Encode and Decode Strings  | Others  | https://www.lintcode.com/problem/659/ |
+| 659 |  Encode and Decode Strings  | Others  | [Rewritten is JS](./array/659-encode-and-decode-string.md) |
 
 ### Backtracking (Completed: 1 + 11 + 0 = 12)
 | No.  | Question  | Level  | Url  |
