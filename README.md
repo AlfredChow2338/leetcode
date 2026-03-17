@@ -126,7 +126,7 @@ This repository is dedicated to my daily practice of solving LeetCode problems u
 | 1399 | Count Largest Group  | Easy  | https://leetcode.com/problems/count-largest-group/ |
 | 2206 | Divide Array Into Equal Pairs  | Easy  | https://leetcode.com/problems/divide-array-into-equal-pairs/ |
 | 3375 | Minimum Operations to Make Array Values Equal to K  | Easy  | https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/ |
-| **36** | Valid Sudoku  | Medium  | https://leetcode.com/problems/valid-sudoku/ |
+| **36** | Valid Sudoku  | Medium  | [Rewritten in JS](./hash-map-and-hash-set/36-valid-sudoku.md) |
 | 49 | Group Anagrams  | Medium  | [Rewritten in JS](./hash-map-and-hash-set/217-contains-duplicate.md) |
 | 128 |  Longest Consecutive Sequence  | Medium  | https://leetcode.com/problems/longest-consecutive-sequence/ |
 | 347 | Top K Frequent Elements  | Medium  | [Rewritten in JS](./hash-map-and-hash-set/347-top-k-frequent-elements.md) |
