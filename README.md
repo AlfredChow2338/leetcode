@@ -128,7 +128,7 @@ This repository is dedicated to my daily practice of solving LeetCode problems u
 | 3375 | Minimum Operations to Make Array Values Equal to K  | Easy  | https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/ |
 | **36** | Valid Sudoku  | Medium  | [Rewritten in JS](./hash-map-and-hash-set/36-valid-sudoku.md) |
 | 49 | Group Anagrams  | Medium  | [Rewritten in JS](./hash-map-and-hash-set/217-contains-duplicate.md) |
-| 128 |  Longest Consecutive Sequence  | Medium  | https://leetcode.com/problems/longest-consecutive-sequence/ |
+| 128 |  Longest Consecutive Sequence  | Medium  | [Rewritten in JS](./hash-map-and-hash-set/128-longest-consecutive-sequence.md) |
 | 347 | Top K Frequent Elements  | Medium  | [Rewritten in JS](./hash-map-and-hash-set/347-top-k-frequent-elements.md) |
 | 781 | Rabbits in Forest  | Medium  | https://leetcode.com/problems/rabbits-in-forest/ |
 | 1296 | Divide Array in Sets of K Consecutive Numbers  | Medium  | https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/ |
