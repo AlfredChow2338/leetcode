@@ -259,7 +259,7 @@ This repository is dedicated to my daily practice of solving LeetCode problems u
 ### Two Pointers (Completed: 4 + 4 + 1 = 9)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
-| 125 |  Valid Palindrome  | Easy  | https://leetcode.com/problems/valid-palindrome/ |
+| 125 |  Valid Palindrome  | Easy  | [Rewritten in JS](./two-pointers/125-valid-palindrome.md) |
 | 283 |  Move Zeroes  | Easy  | https://leetcode.com/problems/move-zeroes/ |
 | 2460 |  Apply Operations to an Array  | Easy  | https://leetcode.com/problems/apply-operations-to-an-array/ |
 | 2570 |  Merge Two 2D Arrays by Summing Values  | Easy  | https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/ |
