@@ -264,7 +264,7 @@ This repository is dedicated to my daily practice of solving LeetCode problems u
 | 2460 |  Apply Operations to an Array  | Easy  | https://leetcode.com/problems/apply-operations-to-an-array/ |
 | 2570 |  Merge Two 2D Arrays by Summing Values  | Easy  | https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/ |
 | 11 |  Container With Most Water  | Medium  | https://leetcode.com/problems/container-with-most-water/ |
-| 15 |  3Sum  | Medium  | https://leetcode.com/problems/3sum/ |
+| 15 |  3Sum  | Medium  | [Rewritten in JS](./two-pointers/15-3sum.md) |
 | **167** |  Two Sum II - Input Array Is Sorted  | Medium  | [Rewritten in JS](./two-pointers/167-two-sum-ii-input-array-is-sorted.md) |
 | 2161 |  Partition Array According to Given Pivot  | Medium  | https://leetcode.com/problems/partition-array-according-to-given-pivot/ |
 | **42** |  Trapping Rain Water  | Hard  | https://leetcode.com/problems/trapping-rain-water/ |
