@@ -267,7 +267,7 @@ This repository is dedicated to my daily practice of solving LeetCode problems u
 | 15 |  3Sum  | Medium  | [Rewritten in JS](./two-pointers/15-3sum.md) |
 | **167** |  Two Sum II - Input Array Is Sorted  | Medium  | [Rewritten in JS](./two-pointers/167-two-sum-ii-input-array-is-sorted.md) |
 | 2161 |  Partition Array According to Given Pivot  | Medium  | https://leetcode.com/problems/partition-array-according-to-given-pivot/ |
-| **42** |  Trapping Rain Water  | Hard  | https://leetcode.com/problems/trapping-rain-water/ |
+| **42** |  Trapping Rain Water  | Hard  | [Rewritten in JS](./two-pointers/42-trapping-rain-water.md) |
 
 ### Union Find (Completed: 0 + 0 + 1 = 1)
 | No.  | Question  | Level  | Url  |
