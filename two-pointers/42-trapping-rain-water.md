@@ -20,5 +20,29 @@ var trap = function(height) {
 };
 ```
 
+2. Prefix sum
+
+```js
+var trap = function(height) {
+    let res = 0
+        leftMax = 0
+        rightMax = 0
+    const n = height.length
+        prefix = Array(n).fill(0)
+        suffix = Array(n).fill(0)
+        
+    for (let i = n - 1; i >= 0; i--) {
+        rightMax = Math.max(rightMax, height[i])
+        suffix[i] = rightMax
+    }
+    for (let i = 0; i < n; i++) {
+        leftMax = Math.max(leftMax, height[i])
+        prefix[i] = leftMax
+        res += Math.min(prefix[i], suffix[i]) - height[i]
+    }
+    return res
+};
+```
+
 
 ### My answers
