@@ -208,7 +208,7 @@ This repository is dedicated to my daily practice of solving LeetCode problems u
 |:------------:|:---------------|:---------------:|:------------|
 | 20 |  Valid Parentheses | Easy  | [Rewritten in JS](./stack/20-valid-parentheses.md) |
 | **22** |  Generate Parentheses | Medium  | https://leetcode.com/problems/generate-parentheses/ |
-| 150 |  Evaluate Reverse Polish Notation | Medium  | https://leetcode.com/problems/evaluate-reverse-polish-notation/ |
+| 150 |  Evaluate Reverse Polish Notation | Medium  | [Rewritten in JS](./stack/150-evaluate-reverse-polish-notation.md) |
 | 155 |  Min Stack | Medium  | [Rewritten in JS](./stack/155-min-stack.md) |
 | **739** |  Daily Temperatures | Medium  | https://leetcode.com/problems/daily-temperatures/ |
 | **853** |  Car Fleet | Medium  | https://leetcode.com/problems/car-fleet/ |
