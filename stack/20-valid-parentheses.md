@@ -1,6 +1,20 @@
 ### Takeaways
 
+1. Brute force: Time Complexity O(n) Space Complexity O(1)
+```js
+var isValid = function(s) {
+    while (s.includes('()') || s.includes('[]') || s.includes('{}')) {
+        s = s.replace('()', '')
+        s = s.replace('[]', '')
+        s = s.replace('{}', '')
+    }
+    return s === ''
+};
+```
+
 ### My answers
+
+Stack: Time Complexity O(n) Space Complexity O(1)
 ```js
 var isValid = function(s) {
     const st = []
