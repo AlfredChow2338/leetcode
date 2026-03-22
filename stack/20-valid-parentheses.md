@@ -1,6 +1,6 @@
 ### Takeaways
 
-1. Brute force: Time Complexity O(n) Space Complexity O(1)
+1. Brute force: Time Complexity O(n^2) Space Complexity O(1)
 ```js
 var isValid = function(s) {
     while (s.includes('()') || s.includes('[]') || s.includes('{}')) {
@@ -12,9 +12,34 @@ var isValid = function(s) {
 };
 ```
 
+2. Stack: Time Complexity O(n) Space Complexity O(n)
+
+```js
+var isValid = function(s) {
+    const st = []
+    const mp = {
+        ')': '(',
+        ']': '[',
+        '}': '{'
+    }
+    for (const c of s) {
+        if (mp[c]) {
+            if (st.length > 0 && mp[c] === st[st.length-1]) {
+                st.pop()
+            } else {
+                return false
+            }
+        } else {
+            st.push(c)
+        }
+    }
+    return st.length === 0
+};
+```
+
 ### My answers
 
-Stack: Time Complexity O(n) Space Complexity O(1)
+Stack: Time Complexity O(n) Space Complexity O(n)
 ```js
 var isValid = function(s) {
     const st = []
