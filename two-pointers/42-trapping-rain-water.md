@@ -1,6 +1,8 @@
 ### Takeaways
 
-1. Brute force
+1. Each height's water = `min(leftMax[i], rightMax[i]) - height[i]`
+
+2. Brute force: Time Complexity O(n^2) Memory Complexity O(1)
 
 ```js
 var trap = function(height) {
@@ -20,7 +22,7 @@ var trap = function(height) {
 };
 ```
 
-2. Prefix sum
+2. Prefix sum: Time Complexity O(n) Memory Complexity O(n)
 
 ```js
 var trap = function(height) {
@@ -40,6 +42,33 @@ var trap = function(height) {
         prefix[i] = leftMax
         res += Math.min(prefix[i], suffix[i]) - height[i]
     }
+    return res
+};
+```
+
+3. Two pointers: Time Complexity O(n) Memory Complexity O(1)
+
+```js
+var trap = function(height) {
+    const n = height.length
+    let res = 0
+        l = 0
+        r = n - 1
+        leftMax = height[l]
+        rightMax = height[r]
+        
+    while (l <= r) {
+        if (leftMax > rightMax) {
+            res += Math.max(Math.min(leftMax, rightMax) - height[r], 0)
+            rightMax = Math.max(rightMax, height[r])
+            r --
+        } else {
+            res += Math.max(Math.min(leftMax, rightMax) - height[l], 0)
+            leftMax = Math.max(leftMax, height[l])
+            l ++
+        }
+    }
+
     return res
 };
 ```
