@@ -206,7 +206,7 @@ This repository is dedicated to my daily practice of solving LeetCode problems u
 ### Stack (Completed: 1 + 6 + 1 = 8)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
-| 20 |  Valid Parentheses | Easy  | https://leetcode.com/problems/valid-parentheses/ |
+| 20 |  Valid Parentheses | Easy  | [Rewritten in JS](./stack/20-valid-parentheses.md) |
 | **22** |  Generate Parentheses | Medium  | https://leetcode.com/problems/generate-parentheses/ |
 | 150 |  Evaluate Reverse Polish Notation | Medium  | https://leetcode.com/problems/evaluate-reverse-polish-notation/ |
 | 155 |  Min Stack | Medium  | https://leetcode.com/problems/min-stack/ |
