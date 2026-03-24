@@ -30,6 +30,57 @@ const dfs = () => {
 return dfs();
 ```
 
+4. A doubly linked list lets us move both left and right easily, so when we find an operator, we can quickly reach the two numbers before it.
+
+```js
+class DLL {
+    constructor(val, next = null, prev = null) {
+        this.val = val
+        this.next = next
+        this.prev = prev
+    }
+}
+
+var evalRPN = function(tokens) {
+    let head = new DLL(tokens[0])
+        curr = head
+        ans = 0
+
+    for (let i = 1; i < tokens.length; i++) {
+        curr.next = new DLL(tokens[i], null, curr)
+        curr = curr.next
+    }
+
+    while (head !== null) {
+        if ('+-*/'.includes(head.val)) {
+            let l = parseInt(head.prev.prev.val)
+                r = parseInt(head.prev.val)
+                res = 0
+            if (head.val === '+') {
+                res = l + r
+            }
+            if (head.val === '-') {
+                res = l - r
+            }
+            if (head.val === '*') {
+                res = l * r
+            }
+            if (head.val === '/') {
+                res = Math.trunc(l / r)
+            }
+            head.val = res.toString()
+            head.prev = head.prev.prev.prev
+            if (head.prev !== null) {
+                head.prev.next = head
+            }
+        }
+        ans = parseInt(head.val)
+        head = head.next
+    }
+    return ans
+};
+```
+
 ### My answers
 
 ```js
