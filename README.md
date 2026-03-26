@@ -210,7 +210,7 @@ This repository is dedicated to my daily practice of solving LeetCode problems u
 | **22** |  Generate Parentheses | Medium  | https://leetcode.com/problems/generate-parentheses/ |
 | 150 |  Evaluate Reverse Polish Notation | Medium  | [Rewritten in JS](./stack/150-evaluate-reverse-polish-notation.md) |
 | 155 |  Min Stack | Medium  | [Rewritten in JS](./stack/155-min-stack.md) |
-| **739** |  Daily Temperatures | Medium  | https://leetcode.com/problems/daily-temperatures/ |
+| **739** |  Daily Temperatures | Medium  | [Rewritten in JS](./stack/739-daily-temperatures.md) |
 | **853** |  Car Fleet | Medium  | https://leetcode.com/problems/car-fleet/ |
 | **2375** |  Construct Smallest Number From DI String | Medium  | https://leetcode.com/problems/construct-smallest-number-from-di-string/ |
 | **84** |  Largest Rectangle in Histogram | Hard  | https://leetcode.com/problems/largest-rectangle-in-histogram/ |
