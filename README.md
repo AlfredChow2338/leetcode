@@ -213,7 +213,7 @@ This repository is dedicated to my daily practice of solving LeetCode problems u
 | **739** |  Daily Temperatures | Medium  | [Rewritten in JS](./stack/739-daily-temperatures.md) |
 | **853** |  Car Fleet | Medium  | [Rewritten in JS](./stack/853-car-fleet.md) |
 | **2375** |  Construct Smallest Number From DI String | Medium  | https://leetcode.com/problems/construct-smallest-number-from-di-string/ |
-| **84** |  Largest Rectangle in Histogram | Hard  | https://leetcode.com/problems/largest-rectangle-in-histogram/ |
+| **84** |  Largest Rectangle in Histogram | Hard  | [Rewritten in JS](./stack/84-largest-rectangle-in-histogram.md) |
 
 ### String (Completed: 4 + 2 + 0 = 5)
 | No.  | Question  | Level  | Url  |
