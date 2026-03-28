@@ -1,3 +1,29 @@
+### Takeaways
+
+1. Brute force: Time O(n^2). To find how wide this rectangle can extend, we look left and right until we hit a bar shorter than the current one.
+```js
+var largestRectangleArea = function(heights) {
+    const n = heights.length;
+    let maxArea = 0;
+
+    for (let i = 0; i < n; i++) {
+        const h = heights[i]
+        let l = i
+        let r = i + 1
+        while (l >= 0 && heights[l] >= h) {
+            l--
+        }
+        while (r < n && heights[r] >= h) {
+            r ++
+        }
+        l ++
+        const w = r - l
+        maxArea = Math.max(maxArea, w * h)
+    }
+    return maxArea;
+};
+```
+
 ### My answer
 
 Brute force: Time O(n^2)
