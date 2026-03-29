@@ -24,6 +24,8 @@ var largestRectangleArea = function(heights) {
 };
 ```
 
+2. Stack
+
 ### My answer
 
 Brute force: Time O(n^2)
