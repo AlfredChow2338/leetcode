@@ -24,7 +24,49 @@ var largestRectangleArea = function(heights) {
 };
 ```
 
-2. Stack
+2. Stack: Time O(n) Space O(n). To efficiently find the nearest smaller bar on both sides, we use a monotonic stack that keeps indices of bars in increasing height order.
+
+```js
+var largestRectangleArea = function(heights) {
+    const n = heights.length;
+    let maxArea = 0;
+    let st = []
+    const leftMost = Array(n).fill(-1)
+    const rightMost = Array(n).fill(n)
+
+    for (let i = 0; i < n; i++) {
+        while (st.length && heights[st[st.length - 1]] >= heights[i]) {
+            st.pop()
+        }
+        if (st.length) {
+            leftMost[i] = st[st.length - 1]
+        }
+        st.push(i)
+    }
+    st.length = 0
+    for (let i = n - 1; i >= 0; i--) {
+        while (st.length && heights[st[st.length - 1]] >= heights[i]) {
+            st.pop()
+        }
+        if (st.length) {
+            rightMost[i] = st[st.length - 1]
+        }
+        st.push(i)
+    }
+
+    for (let i = 0; i < n; i++) {
+        leftMost[i] += 1;
+        rightMost[i] -= 1;
+        maxArea = Math.max(
+            maxArea,
+            heights[i] * (rightMost[i] - leftMost[i] + 1),
+        );
+    }
+
+    return maxArea;
+};
+```
+
 
 ### My answer
 
