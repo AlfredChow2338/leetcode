@@ -67,6 +67,32 @@ var largestRectangleArea = function(heights) {
 };
 ```
 
+3. Stack (Optimal)
+
+```js
+var largestRectangleArea = function(heights) {
+    const n = heights.length;
+    let maxArea = 0;
+    let st = [] // [index, height][]
+
+    for (let i = 0; i < n; i++) {
+        let start = i
+        while (st.length && st[st.length - 1][1] >= heights[i]) {
+            const [idx, height] = st.pop()
+            maxArea = Math.max(maxArea, height * (i - idx))
+            start = idx
+        }
+        st.push([start, heights[i]])
+    }
+
+    for (let i = 0; i < st.length; i++) {
+        maxArea = Math.max(maxArea, st[i][1] * (n - st[i][0]))
+    }
+
+    return maxArea;
+};
+```
+
 
 ### My answer
 
