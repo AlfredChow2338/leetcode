@@ -45,7 +45,7 @@ This repository is dedicated to my daily practice of solving LeetCode problems u
 |:------------:|:---------------|:---------------:|:------------|
 | 704 |  Binary Search | Easy  | [Rewritten in JS](./binary-search/704-binary-search.md) |
 | 2529 |  Maximum Count of Positive Integer and Negative Integer | Easy  | https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/ |
-| 74 |  Search a 2D Matrix | Medium  | https://leetcode.com/problems/search-a-2d-matrix/ |
+| 74 |  Search a 2D Matrix | Medium  | [Rewritten in JS](./binary-search/74-search-a-2d-matrix.md) |
 | 153 |  Find Minimum in Rotated Sorted Array | Medium  | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ |
 | **875** |  Koko Eating Bananas | Medium  | https://leetcode.com/problems/koko-eating-bananas/ |
 | **981** |  Time Based Key-Value Store | Medium  | https://leetcode.com/problems/time-based-key-value-store/ |
