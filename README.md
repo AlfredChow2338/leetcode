@@ -43,7 +43,7 @@ This repository is dedicated to my daily practice of solving LeetCode problems u
 ### Binary Search (Completed: 2 + 9 + 2 = 13)
 | No.  | Question  | Level  | Url  |
 |:------------:|:---------------|:---------------:|:------------|
-| 704 |  Binary Search | Easy  | https://leetcode.com/problems/binary-search/ |
+| 704 |  Binary Search | Easy  | [Rewritten in JS](./binary-search/704-binary-search.md) |
 | 2529 |  Maximum Count of Positive Integer and Negative Integer | Easy  | https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/ |
 | 74 |  Search a 2D Matrix | Medium  | https://leetcode.com/problems/search-a-2d-matrix/ |
 | 153 |  Find Minimum in Rotated Sorted Array | Medium  | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ |
